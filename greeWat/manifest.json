@@ -1,0 +1,9 @@
+{
+    "domain": "greeWat",
+    "name": "Gree Water Heater",
+    "version": "0.0.1",
+    "documentation": "",
+    "dependencies": [],
+    "codeowners": [],
+    "requirements": ["pycryptodome"]
+  }

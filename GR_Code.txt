@@ -1,0 +1,5365 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="Curtain_Motor">
+        <item>70203</item>
+        <item>7030E</item>
+    </array>
+    <array name="GR_AC_Company">
+        <item>80221</item>
+        <item>80222</item>
+    </array>
+    <array name="GR_AI_Air_Conditioner">
+        <item>11f03</item>
+    </array>
+    <array name="GR_AP_TV">
+        <item>10f03</item>
+    </array>
+    <array name="GR_AddDevice_AC">
+        <item>10001</item>
+        <item>10002</item>
+        <item>10003</item>
+        <item>10006</item>
+        <item>10008</item>
+        <item>10f00</item>
+        <item>10f03</item>
+        <item>11001</item>
+        <item>11002</item>
+        <item>11010</item>
+        <item>11003</item>
+        <item>11004</item>
+        <item>11f00</item>
+        <item>11f01</item>
+        <item>12000</item>
+        <item>11010</item>
+        <item>806002</item>
+        <item>910002</item>
+        <item>10007</item>
+        <item>10009</item>
+        <item>10011</item>
+        <item>10012</item>
+        <item>10014</item>
+        <item>10015</item>
+        <item>10010</item>
+        <item>10f04</item>
+        <item>10f05</item>
+        <item>11f06</item>
+    </array>
+    <array name="GR_AddDevice_AI_Sensor">
+        <item>80260</item>
+        <item>80261</item>
+    </array>
+    <array name="GR_AddDevice_Adjustable_Bed_Frame">
+        <item>70401</item>
+    </array>
+    <array name="GR_AddDevice_AirCleaner">
+        <item>828100</item>
+        <item>828102</item>
+        <item>828103</item>
+        <item>828104</item>
+        <item>828105</item>
+    </array>
+    <array name="GR_AddDevice_Cooker">
+        <item>828401</item>
+        <item>828402</item>
+        <item>828403</item>
+        <item>828404</item>
+        <item>828405</item>
+    </array>
+    <array name="GR_AddDevice_CookerHood">
+        <item>828600</item>
+        <item>828601</item>
+    </array>
+    <array name="GR_AddDevice_Deh">
+        <item>13800</item>
+        <item>13801</item>
+        <item>13803</item>
+        <item>13806</item>
+        <item>13807</item>
+    </array>
+    <array name="GR_AddDevice_Dis">
+        <item>828700</item>
+    </array>
+    <array name="GR_AddDevice_Electric_Heater">
+        <item>828a00</item>
+        <item>828a01</item>
+        <item>828a02</item>
+        <item>828a03</item>
+        <item>828a04</item>
+        <item>828a05</item>
+    </array>
+    <array name="GR_AddDevice_EnvironmentSensor">
+        <item>80241</item>
+        <item>80242</item>
+    </array>
+    <array name="GR_AddDevice_FA">
+        <item>605d</item>
+        <item>608d</item>
+        <item>6079</item>
+        <item>6091</item>
+        <item>6099</item>
+        <item>6200</item>
+        <item>60a0</item>
+        <item>60a4</item>
+    </array>
+    <array name="GR_AddDevice_Gas_Boiler">
+        <item>8600</item>
+        <item>828c00</item>
+        <item>828c02</item>
+    </array>
+    <array name="GR_AddDevice_Gree_AC">
+        <item>6000</item>
+        <item>6301</item>
+        <item>6045</item>
+        <item>6046</item>
+    </array>
+    <array name="GR_AddDevice_HS_ACUnit">
+        <item>806004</item>
+    </array>
+    <array name="GR_AddDevice_HotWater">
+        <item>9000</item>
+        <item>901d</item>
+        <item>901e</item>
+        <item>901f</item>
+    </array>
+    <array name="GR_AddDevice_Hum">
+        <item>828500</item>
+        <item>828502</item>
+        <item>828503</item>
+    </array>
+    <array name="GR_AddDevice_LiangBa">
+        <item>70001</item>
+    </array>
+    <array name="GR_AddDevice_Mattress">
+        <item>70402</item>
+        <item>70403</item>
+    </array>
+    <array name="GR_AddDevice_Mobile_AC">
+        <item>13000</item>
+    </array>
+    <array name="GR_AddDevice_NetDrink">
+        <item>828302</item>
+        <item>828304</item>
+        <item>828308</item>
+    </array>
+    <array name="GR_AddDevice_SY_WP">
+        <item>828305</item>
+    </array>
+    <array name="GR_AddDevice_Smart_Thermo">
+        <item>807001</item>
+    </array>
+    <array name="GR_AddDevice_Umatch">
+        <item>3017</item>
+        <item>3018</item>
+        <item>3019</item>
+        <item>809031</item>
+        <item>6400</item>
+        <item>60a1</item>
+    </array>
+    <array name="GR_AddDevice_VoiceAC">
+        <item>10f10</item>
+    </array>
+    <array name="GR_AddDevice_WP">
+        <item>828300</item>
+        <item>828301</item>
+        <item>828302</item>
+        <item>828306</item>
+        <item>828307</item>
+        <item>828309</item>
+    </array>
+    <array name="GR_AddDevice_Washer">
+        <item>28A00</item>
+        <item>28A80</item>
+        <item>28A81</item>
+        <item>28a01</item>
+        <item>28a02</item>
+        <item>28a03</item>
+        <item>28a04</item>
+        <item>28a05</item>
+    </array>
+    <array name="GR_AddDevice_hotcold">
+        <item>809030</item>
+    </array>
+    <array name="GR_Bluetooth_Gateway">
+        <item>80300</item>
+        <item>70201</item>
+        <item>70301</item>
+    </array>
+    <array name="GR_Carbon_Sensor">
+        <item>7020B</item>
+        <item>70310</item>
+    </array>
+    <array name="GR_Cleanr_util">
+        <item>828140</item>
+    </array>
+    <array name="GR_Cold_Fan">
+        <item>828205</item>
+    </array>
+    <array name="GR_Collection_Heating">
+        <item>910003</item>
+    </array>
+    <array name="GR_Combustible_Gas_Sensor">
+        <item>70209</item>
+        <item>70307</item>
+    </array>
+    <array name="GR_Cooler">
+        <item>f000</item>
+    </array>
+    <array name="GR_Cube">
+        <item>80202</item>
+        <item>80204</item>
+    </array>
+    <array name="GR_Curtain">
+        <item>80501</item>
+    </array>
+    <array name="GR_DWasher">
+        <item>828b00</item>
+        <item>828901</item>
+        <item>828902</item>
+    </array>
+    <array name="GR_Emergency_Button">
+        <item>70208</item>
+        <item>7030C</item>
+    </array>
+    <array name="GR_FAUnit_Condition">
+        <item>3020</item>
+    </array>
+    <array name="GR_Fan">
+        <item>828200</item>
+        <item>828202</item>
+        <item>828203</item>
+        <item>828204</item>
+        <item>828209</item>
+        <item>828211</item>
+        <item>828209</item>
+        <item>828208</item>
+        <item>828210</item>
+        <item>828212</item>
+        <item>828213</item>
+        <item>828214</item>
+    </array>
+    <array name="GR_Fridge">
+        <item>30000</item>
+        <item>28c00</item>
+        <item>28C40</item>
+        <item>28C90</item>
+        <item>28c91</item>
+        <item>28c93</item>
+        <item>28c94</item>
+        <item>28c95</item>
+        <item>28c96</item>
+    </array>
+    <array name="GR_GWHeater">
+        <item>829100</item>
+    </array>
+    <array name="GR_Gate_Magnetism">
+        <item>70206</item>
+        <item>70308</item>
+    </array>
+    <array name="GR_Gcloud">
+        <item>60</item>
+    </array>
+    <array name="GR_Heater">
+        <item>9100</item>
+        <item>910001</item>
+    </array>
+    <array name="GR_Human_Body_Sensor">
+        <item>70207</item>
+        <item>70302</item>
+    </array>
+    <array name="GR_Infrared_Cube">
+        <item>80201</item>
+    </array>
+    <array name="GR_Intelligent_Switch">
+        <item>88888</item>
+        <item>88001</item>
+        <item>88002</item>
+    </array>
+    <array name="GR_Linkpad">
+        <item>80901</item>
+    </array>
+    <array name="GR_Lock">
+        <item>70101</item>
+        <item>70102</item>
+        <item>70103</item>
+        <item>70105</item>
+    </array>
+    <array name="GR_Mr_AR">
+        <item>15000</item>
+    </array>
+    <array name="GR_Plant_Tank">
+        <item>828e00</item>
+    </array>
+    <array name="GR_Rose_AC">
+        <item>11000</item>
+        <item>11009</item>
+        <item>11005</item>
+        <item>11008</item>
+        <item>11006</item>
+        <item>11f02</item>
+        <item>11012</item>
+        <item>11011</item>
+    </array>
+    <array name="GR_SOS">
+        <item>80704</item>
+    </array>
+    <array name="GR_Scene_Panel">
+        <item>80601</item>
+    </array>
+    <array name="GR_Sit_Implement">
+        <item>70002</item>
+    </array>
+    <array name="GR_Smart_Camera">
+        <item>70311</item>
+        <item>70312</item>
+    </array>
+    <array name="GR_Smart_Socket">
+        <item>80801</item>
+        <item>70313</item>
+        <item>80802</item>
+        <item>80803</item>
+    </array>
+    <array name="GR_Smoke_Sensor">
+        <item>7020E</item>
+        <item>7030D</item>
+    </array>
+    <array name="GR_Softener">
+        <item>829000</item>
+    </array>
+    <array name="GR_Steam_Bake">
+        <item>828d04</item>
+    </array>
+    <array name="GR_Switch">
+        <item>80401</item>
+    </array>
+    <array name="GR_THSensor">
+        <item>80701</item>
+    </array>
+    <array name="GR_Temperature_Sensor">
+        <item>7020F</item>
+        <item>70211</item>
+        <item>70306</item>
+    </array>
+    <array name="GR_Tracker">
+        <item>81000</item>
+    </array>
+    <array name="GR_Vein_Lock">
+        <item>70104</item>
+    </array>
+    <array name="GR_Water_Immersion_Sensor">
+        <item>7020A</item>
+        <item>70303</item>
+    </array>
+    <array name="GR_WtrAlarm">
+        <item>80702</item>
+    </array>
+    <array name="GR_ZT_TV">
+        <item>830000</item>
+    </array>
+    <array name="Smart_Switch">
+        <item>70202</item>
+        <item>70204</item>
+        <item>7020c</item>
+        <item>7030A</item>
+    </array>
+    <array name="_10001">
+        <item>Pow</item>
+        <item>HeatCoolType</item>
+        <item>Mod</item>
+        <item>TemUn</item>
+        <item>SetTem</item>
+        <item>TemRec</item>
+        <item>StHt</item>
+        <item>SvSt</item>
+        <item>host</item>
+        <item>name</item>
+        <item>AllErr</item>
+        <item>ModelType</item>
+    </array>
+    <array name="_10002">
+        <item>Pow</item>
+        <item>Mod</item>
+        <item>TemUn</item>
+        <item>SetTem</item>
+        <item>TemRec</item>
+        <item>StHt</item>
+        <item>SvSt</item>
+        <item>host</item>
+        <item>name</item>
+        <item>Add0.5</item>
+    </array>
+    <array name="_10003">
+        <item>Pow</item>
+        <item>SetTem</item>
+        <item>Mod</item>
+        <item>Add0.5</item>
+        <item>host</item>
+        <item>name</item>
+    </array>
+    <array name="_10006">
+        <item>Pow</item>
+        <item>Mod</item>
+        <item>TemUn</item>
+        <item>SetTem</item>
+        <item>TemRec</item>
+        <item>host</item>
+        <item>name</item>
+    </array>
+    <array name="_10007">
+        <item>Pow</item>
+        <item>HeatCoolType</item>
+        <item>Mod</item>
+        <item>TemUn</item>
+        <item>SetTem</item>
+        <item>TemRec</item>
+        <item>StHt</item>
+        <item>SvSt</item>
+        <item>host</item>
+        <item>name</item>
+        <item>AllErr</item>
+        <item>ModelType</item>
+        <item>Add0.5</item>
+    </array>
+    <array name="_10008">
+        <item>Pow</item>
+        <item>HeatCoolType</item>
+        <item>Mod</item>
+        <item>TemUn</item>
+        <item>SetTem</item>
+        <item>TemRec</item>
+        <item>StHt</item>
+        <item>SvSt</item>
+        <item>host</item>
+        <item>name</item>
+        <item>AllErr</item>
+        <item>ModelType</item>
+    </array>
+    <array name="_10009">
+        <item>Pow</item>
+        <item>Mod</item>
+        <item>TemUn</item>
+        <item>SetTem</item>
+        <item>TemRec</item>
+        <item>host</item>
+        <item>name</item>
+        <item>Add0.5</item>
+    </array>
+    <array name="_10010">
+        <item>Pow</item>
+        <item>Mod</item>
+        <item>TemUn</item>
+        <item>SetTem</item>
+        <item>TemRec</item>
+        <item>StHt</item>
+        <item>SvSt</item>
+        <item>Add0.5</item>
+        <item>host</item>
+        <item>name</item>
+    </array>
+    <array name="_10011">
+        <item>Pow</item>
+        <item>Mod</item>
+        <item>SetTem</item>
+        <item>WdSpd</item>
+        <item>Air</item>
+        <item>name</item>
+        <item>TemUn</item>
+        <item>TemRec</item>
+    </array>
+    <array name="_10012">
+        <item>Pow</item>
+        <item>Mod</item>
+        <item>SetTem</item>
+        <item>WdSpd</item>
+        <item>name</item>
+        <item>TemUn</item>
+        <item>TemRec</item>
+        <item>StHt</item>
+    </array>
+    <array name="_10014">
+        <item>Pow</item>
+        <item>SetTem</item>
+        <item>Mod</item>
+        <item>host</item>
+        <item>name</item>
+    </array>
+    <array name="_10015">
+        <item>Pow</item>
+        <item>SetTem</item>
+        <item>Mod</item>
+        <item>Add0.5</item>
+        <item>StHt</item>
+        <item>Air</item>
+        <item>host</item>
+        <item>name</item>
+    </array>
+    <array name="_10f00">
+        <item>Pow</item>
+        <item>Mod</item>
+        <item>TemUn</item>
+        <item>SetTem</item>
+        <item>TemRec</item>
+        <item>StHt</item>
+        <item>SvSt</item>
+        <item>host</item>
+        <item>name</item>
+        <item>Add0.5</item>
+        <item>MicroSen</item>
+    </array>
+    <array name="_10f03">
+        <item>Pow</item>
+        <item>Mod</item>
+        <item>WdSpd</item>
+        <item>SetTem</item>
+        <item>Add0.5</item>
+    </array>
+    <array name="_10f04">
+        <item>Pow</item>
+        <item>Mod</item>
+        <item>TemUn</item>
+        <item>SetTem</item>
+        <item>Add0.5</item>
+        <item>Add0.1</item>
+        <item>PctCle</item>
+    </array>
+    <array name="_10f05">
+        <item>Pow</item>
+        <item>Mod</item>
+        <item>TemUn</item>
+        <item>SetTem</item>
+        <item>Add0.5</item>
+        <item>Add0.1</item>
+    </array>
+    <array name="_10f10">
+        <item>Pow</item>
+        <item>Mod</item>
+        <item>TemUn</item>
+        <item>SetTem</item>
+        <item>TemRec</item>
+        <item>host</item>
+        <item>name</item>
+        <item>Add0.5</item>
+    </array>
+    <array name="_11000">
+        <item>Pow</item>
+        <item>Mod</item>
+        <item>TemUn</item>
+        <item>SetTem</item>
+        <item>TemRec</item>
+        <item>host</item>
+        <item>name</item>
+    </array>
+    <array name="_11001">
+        <item>Pow</item>
+        <item>Mod</item>
+        <item>TemUn</item>
+        <item>SetTem</item>
+        <item>TemRec</item>
+        <item>host</item>
+        <item>name</item>
+    </array>
+    <array name="_11002">
+        <item>Pow</item>
+        <item>Mod</item>
+        <item>TemUn</item>
+        <item>SetTem</item>
+        <item>TemRec</item>
+        <item>host</item>
+        <item>name</item>
+    </array>
+    <array name="_11003">
+        <item>Pow</item>
+        <item>HeatCoolType</item>
+        <item>Mod</item>
+        <item>TemUn</item>
+        <item>SetTem</item>
+        <item>TemRec</item>
+        <item>SvSt</item>
+        <item>host</item>
+        <item>name</item>
+    </array>
+    <array name="_11004">
+        <item>Pow</item>
+        <item>HeatCoolType</item>
+        <item>Mod</item>
+        <item>TemUn</item>
+        <item>SetTem</item>
+        <item>TemRec</item>
+        <item>SvSt</item>
+        <item>host</item>
+        <item>name</item>
+    </array>
+    <array name="_11005">
+        <item>Pow</item>
+        <item>Mod</item>
+        <item>SetTem</item>
+        <item>WdSpd</item>
+        <item>Add0.5</item>
+        <item>Air</item>
+        <item>name</item>
+        <item>TemUn</item>
+        <item>TemRec</item>
+        <item>StHt</item>
+    </array>
+    <array name="_11006">
+        <item>Pow</item>
+        <item>Mod</item>
+        <item>TemUn</item>
+        <item>SetTem</item>
+        <item>TemRec</item>
+        <item>host</item>
+        <item>name</item>
+        <item>Add0.5</item>
+    </array>
+    <array name="_11008">
+        <item>Pow</item>
+        <item>Mod</item>
+        <item>SetTem</item>
+        <item>WdSpd</item>
+        <item>Add0.5</item>
+        <item>Air</item>
+        <item>name</item>
+        <item>TemUn</item>
+        <item>TemRec</item>
+    </array>
+    <array name="_11009">
+        <item>Pow</item>
+        <item>Mod</item>
+        <item>TemUn</item>
+        <item>SetTem</item>
+        <item>TemRec</item>
+        <item>StHt</item>
+        <item>SvSt</item>
+        <item>Add0.5</item>
+        <item>host</item>
+        <item>name</item>
+    </array>
+    <array name="_11010">
+        <item>Pow</item>
+        <item>Mod</item>
+        <item>TemUn</item>
+        <item>SetTem</item>
+        <item>TemRec</item>
+        <item>host</item>
+        <item>name</item>
+        <item>MicroSen</item>
+    </array>
+    <array name="_11011">
+        <item>Pow</item>
+        <item>SetTem</item>
+        <item>Add0.5</item>
+        <item>TemRec</item>
+        <item>Mod</item>
+        <item>WdSpd</item>
+        <item>Tur</item>
+        <item>Quiet</item>
+        <item>SwingLfRig</item>
+        <item>SmartWind</item>
+        <item>UDFanPort</item>
+        <item>SwhSlp</item>
+        <item>SlpMod</item>
+        <item>AssHt</item>
+        <item>Health</item>
+        <item>StHt</item>
+        <item>UnmanedShutDown</item>
+        <item>VocCtl</item>
+        <item>Lig</item>
+        <item>Air</item>
+        <item>AppTimer</item>
+    </array>
+    <array name="_11012">
+        <item>Pow</item>
+        <item>Mod</item>
+        <item>TemUn</item>
+        <item>SetTem</item>
+        <item>Add0.5</item>
+        <item>StHt</item>
+    </array>
+    <array name="_11f02">
+        <item>Pow</item>
+        <item>Mod</item>
+        <item>TemUn</item>
+        <item>SetTem</item>
+        <item>TemRec</item>
+        <item>StHt</item>
+        <item>SvSt</item>
+        <item>host</item>
+        <item>name</item>
+        <item>Add0.5</item>
+        <item>MicroSen</item>
+    </array>
+    <array name="_11f03">
+        <item>Pow</item>
+        <item>Mod</item>
+        <item>TemUn</item>
+        <item>SetTem</item>
+        <item>TemRec</item>
+        <item>StHt</item>
+        <item>SvSt</item>
+        <item>host</item>
+        <item>name</item>
+        <item>Add0.5</item>
+        <item>MicroSen</item>
+    </array>
+    <array name="_11f06">
+        <item>Pow</item>
+        <item>Mod</item>
+        <item>SwUpDn</item>
+        <item>SwhSlp</item>
+        <item>SlpMod</item>
+        <item>SetTem</item>
+        <item>Add0.5</item>
+        <item>SwingLfRig</item>
+        <item>Add0.1</item>
+        <item>Air</item>
+        <item>Wet</item>
+        <item>StHt</item>
+        <item>CO2Lev</item>
+        <item>CO2</item>
+        <item>TVOC</item>
+        <item>TVOCLev</item>
+        <item>AirCleanliness</item>
+        <item>HumSen</item>
+        <item>WatVol</item>
+        <item>WetSet</item>
+        <item>AutoCleanSta</item>
+        <item>AirQ</item>
+        <item>Tur</item>
+        <item>Quiet</item>
+        <item>WdSpd</item>
+        <item>AssHt</item>
+        <item>Health</item>
+        <item>AutoCleanSet</item>
+    </array>
+    <array name="_12000">
+        <item>Pow</item>
+        <item>HeatCoolType</item>
+        <item>Mod</item>
+        <item>TemUn</item>
+        <item>SetTem</item>
+        <item>TemRec</item>
+        <item>host</item>
+        <item>name</item>
+    </array>
+    <array name="_13000">
+        <item>Pow</item>
+        <item>HeatCoolType</item>
+        <item>Mod</item>
+        <item>TemUn</item>
+        <item>SetTem</item>
+        <item>TemRec</item>
+        <item>StHt</item>
+        <item>SvSt</item>
+        <item>WdSpd</item>
+        <item>host</item>
+        <item>name</item>
+        <item>AllErr</item>
+    </array>
+    <array name="_13800">
+        <item>Pow</item>
+        <item>Dmod</item>
+        <item>Dwet</item>
+        <item>host</item>
+        <item>name</item>
+    </array>
+    <array name="_13801">
+        <item>Pow</item>
+        <item>Dmod</item>
+        <item>Dwet</item>
+        <item>host</item>
+        <item>name</item>
+        <item>AllErr</item>
+    </array>
+    <array name="_13803">
+        <item>Pow</item>
+        <item>Dmod</item>
+        <item>Dwet</item>
+        <item>host</item>
+        <item>name</item>
+        <item>TemSen</item>
+        <item>estateInsta21</item>
+        <item>estateOutsta22</item>
+        <item>estateOutsta23</item>
+        <item>estateOutsta24</item>
+        <item>DwatFul</item>
+    </array>
+    <array name="_13806">
+        <item>Pow</item>
+        <item>Dmod</item>
+        <item>Dwet</item>
+        <item>host</item>
+        <item>name</item>
+        <item>TemSen</item>
+        <item>estateInsta21</item>
+        <item>estateOutsta22</item>
+        <item>estateOutsta23</item>
+        <item>estateOutsta24</item>
+        <item>DwatFul</item>
+    </array>
+    <array name="_13807">
+        <item>Pow</item>
+        <item>Dmod</item>
+        <item>Dwet</item>
+        <item>host</item>
+        <item>name</item>
+        <item>TemSen</item>
+        <item>estateInsta21</item>
+        <item>estateOutsta22</item>
+        <item>estateOutsta23</item>
+        <item>estateOutsta24</item>
+        <item>DwatFul</item>
+    </array>
+    <array name="_15000">
+        <item>Pow</item>
+        <item>HeatCoolType</item>
+        <item>Mod</item>
+        <item>TemUn</item>
+        <item>SetTem</item>
+        <item>TemRec</item>
+        <item>host</item>
+        <item>name</item>
+        <item>AllErr</item>
+        <item>JFErrorCode</item>
+    </array>
+    <array name="_28A00">
+        <item>power</item>
+        <item>runState</item>
+        <item>washMode</item>
+        <item>stage</item>
+        <item>timeLeft</item>
+        <item>order</item>
+        <item>er</item>
+        <item>host</item>
+        <item>name</item>
+    </array>
+    <array name="_28A80">
+        <item>power</item>
+        <item>runState</item>
+        <item>washMode</item>
+        <item>stage</item>
+        <item>timeLeft</item>
+        <item>order</item>
+        <item>er</item>
+        <item>host</item>
+        <item>name</item>
+    </array>
+    <array name="_28A81">
+        <item>power</item>
+        <item>runState</item>
+        <item>washMode</item>
+        <item>stage</item>
+        <item>timeLeft</item>
+        <item>order</item>
+        <item>er</item>
+        <item>host</item>
+        <item>name</item>
+    </array>
+    <array name="_28B00">
+        <item>UpTemp</item>
+        <item>UpHum</item>
+        <item>UpLight</item>
+        <item>DownTemp</item>
+        <item>DownHum</item>
+        <item>DownLight</item>
+        <item>Er</item>
+        <item>host</item>
+        <item>name</item>
+    </array>
+    <array name="_28C40">
+        <item>CldOff</item>
+        <item>CldRmSG</item>
+        <item>ChgOff</item>
+        <item>ChgRmSG</item>
+        <item>FrzRmSG</item>
+        <item>Holiday</item>
+        <item>FastFrz</item>
+        <item>Er</item>
+        <item>host</item>
+        <item>name</item>
+    </array>
+    <array name="_28C90">
+        <item>CldOff</item>
+        <item>CldRmSG</item>
+        <item>ChgOff</item>
+        <item>ChgRmSG</item>
+        <item>FrzRmSG</item>
+        <item>IceRmSG</item>
+        <item>QukRmSG</item>
+        <item>Er</item>
+        <item>host</item>
+        <item>name</item>
+    </array>
+    <array name="_28a01">
+        <item>Pow</item>
+        <item>washMode</item>
+        <item>devState</item>
+        <item>runStage</item>
+        <item>timeAll</item>
+        <item>timeLeft</item>
+        <item>launch</item>
+        <item>childLock</item>
+        <item>order</item>
+        <item>orderTimeHour</item>
+        <item>orderTimeMin</item>
+        <item>error1</item>
+        <item>error2</item>
+        <item>error3</item>
+        <item>error4</item>
+        <item>JFerr</item>
+        <item>prompt1</item>
+        <item>prompt2</item>
+        <item>dry</item>
+        <item>washType</item>
+    </array>
+    <array name="_28a02">
+        <item>Pow</item>
+        <item>washMode</item>
+        <item>devState</item>
+        <item>runStage</item>
+        <item>timeAll</item>
+        <item>timeLeft</item>
+        <item>launch</item>
+        <item>childLock</item>
+        <item>order</item>
+        <item>orderTimeHour</item>
+        <item>orderTimeMin</item>
+        <item>error1</item>
+        <item>error2</item>
+        <item>error3</item>
+        <item>error4</item>
+        <item>JFerr</item>
+        <item>prompt1</item>
+        <item>prompt2</item>
+    </array>
+    <array name="_28a03">
+        <item>Pow</item>
+        <item>washMode</item>
+        <item>devState</item>
+        <item>runStage</item>
+        <item>timeAll</item>
+        <item>timeLeft</item>
+        <item>launch</item>
+        <item>childLock</item>
+        <item>order</item>
+        <item>orderTimeHour</item>
+        <item>orderTimeMin</item>
+        <item>error1</item>
+        <item>error2</item>
+        <item>error3</item>
+        <item>error4</item>
+        <item>JFerr</item>
+        <item>prompt1</item>
+        <item>prompt2</item>
+    </array>
+    <array name="_28a04">
+        <item>Pow</item>
+        <item>washMode</item>
+        <item>devState</item>
+        <item>runStage</item>
+        <item>timeAll</item>
+        <item>timeLeft</item>
+        <item>launch</item>
+        <item>childLock</item>
+        <item>order</item>
+        <item>orderTimeHour</item>
+        <item>orderTimeMin</item>
+        <item>error1</item>
+        <item>error2</item>
+        <item>error3</item>
+        <item>error4</item>
+        <item>JFerr</item>
+        <item>prompt1</item>
+        <item>prompt2</item>
+    </array>
+    <array name="_28a05">
+        <item>Pow</item>
+        <item>devState</item>
+        <item>launch</item>
+        <item>washMode</item>
+        <item>timeAll</item>
+        <item>timeLeft</item>
+        <item>runStage</item>
+        <item>order</item>
+        <item>orderLaunch</item>
+        <item>orderTimeHour</item>
+        <item>orderTimeMin</item>
+        <item>setWashTime</item>
+        <item>washTemp</item>
+        <item>potch</item>
+        <item>speed</item>
+        <item>dry</item>
+        <item>mute</item>
+        <item>childLock</item>
+        <item>error1</item>
+        <item>error2</item>
+        <item>error3</item>
+        <item>error4</item>
+        <item>prompt1</item>
+        <item>prompt2</item>
+        <item>JFerr</item>
+    </array>
+    <array name="_28c91">
+        <item>intel</item>
+        <item>fastFrz</item>
+        <item>fastCool</item>
+        <item>ecoMode</item>
+        <item>deepFrz</item>
+        <item>coldStoSetTem</item>
+        <item>freezeSetTem</item>
+        <item>temVarSetTem</item>
+        <item>allErr</item>
+    </array>
+    <array name="_28c93">
+        <item>intel</item>
+        <item>fastFrz</item>
+        <item>fastCool</item>
+        <item>ecoMode</item>
+        <item>coldStoSetTem</item>
+        <item>freezeSetTem</item>
+        <item>coldSto</item>
+        <item>gardenStuff</item>
+        <item>coolFresh</item>
+        <item>tenderFrz</item>
+        <item>softFrz</item>
+        <item>zeroDegree</item>
+        <item>allErr</item>
+        <item>opDoorErr</item>
+    </array>
+    <array name="_28c94">
+        <item>intel</item>
+        <item>fastFrz</item>
+        <item>fastCool</item>
+        <item>ecoMode</item>
+        <item>coldStoSetTem</item>
+        <item>freezeSetTem</item>
+        <item>coldSto</item>
+        <item>gardenStuff</item>
+        <item>coolFresh</item>
+        <item>tenderFrz</item>
+        <item>softFrz</item>
+        <item>zeroDegree</item>
+        <item>allErr</item>
+        <item>opDoorErr</item>
+    </array>
+    <array name="_30000">
+        <item>CldOff</item>
+        <item>CldRmSG</item>
+        <item>ChgOff</item>
+        <item>ChgRmSG</item>
+        <item>FrzRmSG</item>
+        <item>Er</item>
+        <item>host</item>
+        <item>name</item>
+    </array>
+    <array name="_3018">
+        <item>Pow</item>
+        <item>Mod</item>
+        <item>TemUn</item>
+        <item>SetTem</item>
+        <item>TemRec</item>
+        <item>SvSt</item>
+        <item>HeatSvStTemMax</item>
+        <item>CoolSvStTemMin</item>
+        <item>TemRecH</item>
+        <item>TemRecC</item>
+        <item>host</item>
+        <item>name</item>
+        <item>AllErr</item>
+    </array>
+    <array name="_3020">
+        <item>Pow</item>
+        <item>Mod</item>
+        <item>SetTem</item>
+        <item>OutHome</item>
+        <item>JFerr</item>
+        <item>ErrCode1</item>
+        <item>ErrCode2</item>
+        <item>WdSpd</item>
+    </array>
+    <array name="_6000">
+        <item>Pow</item>
+        <item>Mod</item>
+        <item>SetTem</item>
+        <item>SvSt</item>
+        <item>HeatSvStTemMax</item>
+        <item>HumiSvStTemMin</item>
+        <item>CoolSvStTemMin</item>
+        <item>MasSub</item>
+        <item>GetEr</item>
+        <item>name</item>
+        <item>host</item>
+    </array>
+    <array name="_6045">
+        <item>Pow</item>
+        <item>Mod</item>
+        <item>SetTem</item>
+        <item>WdSpd</item>
+        <item>Quiet</item>
+        <item>Blo</item>
+        <item>SvSt</item>
+        <item>Air</item>
+        <item>CoolSvStTemMin</item>
+        <item>HeatSvStTemMax</item>
+        <item>SetCoolHumi</item>
+        <item>SwhSlp</item>
+        <item>AidHeat</item>
+        <item>SetDeciTem</item>
+        <item>GetEr</item>
+        <item>MasSub</item>
+    </array>
+    <array name="_6046">
+        <item>Pow</item>
+        <item>Mod</item>
+        <item>SetTem</item>
+        <item>WdSpd</item>
+        <item>Quiet</item>
+        <item>Blo</item>
+        <item>SvSt</item>
+        <item>Air</item>
+        <item>CoolSvStTemMin</item>
+        <item>HeatSvStTemMax</item>
+        <item>SetCoolHumi</item>
+        <item>SwhSlp</item>
+        <item>AidHeat</item>
+        <item>SetDeciTem</item>
+        <item>GetEr</item>
+        <item>MasSub</item>
+        <item>SysSta</item>
+    </array>
+    <array name="_605d">
+        <item>Pow</item>
+        <item>FanMod</item>
+        <item>GetEr</item>
+        <item>host</item>
+        <item>GasQ</item>
+        <item>WdSpd</item>
+        <item>name</item>
+    </array>
+    <array name="_6079">
+        <item>Pow</item>
+        <item>FanMod</item>
+        <item>WdSpd</item>
+        <item>PctCle</item>
+        <item>VitiGr</item>
+        <item>PctRe</item>
+        <item>GetEr</item>
+    </array>
+    <array name="_608d">
+        <item>Pow</item>
+        <item>FanMod</item>
+        <item>GetEr</item>
+        <item>host</item>
+        <item>GasQ</item>
+        <item>WdSpd</item>
+        <item>name</item>
+        <item>PctCle</item>
+        <item>PctRe</item>
+    </array>
+    <array name="_6091">
+        <item>Pow</item>
+        <item>FanMod</item>
+        <item>GetEr</item>
+        <item>host</item>
+        <item>GasQ</item>
+        <item>WdSpd</item>
+        <item>name</item>
+        <item>PctCle</item>
+        <item>PctRe</item>
+    </array>
+    <array name="_6099">
+        <item>Pow</item>
+        <item>FanMod</item>
+        <item>GetEr</item>
+        <item>host</item>
+        <item>GasQ</item>
+        <item>WdSpd</item>
+        <item>name</item>
+        <item>PctCle</item>
+        <item>PctRe</item>
+    </array>
+    <array name="_60a0">
+        <item>Pow</item>
+        <item>FanMod</item>
+        <item>WdSpd</item>
+        <item>RunMod</item>
+        <item>Inloop</item>
+        <item>IDUAirQu</item>
+        <item>ModS</item>
+        <item>PctCle</item>
+        <item>VitiGr</item>
+        <item>PctRe</item>
+        <item>GetEr</item>
+        <item>ODUViti</item>
+        <item>GasQ</item>
+        <item>InVitiGr</item>
+        <item>InVitiGrCg</item>
+        <item>ErrType</item>
+        <item>MIdType</item>
+        <item>IFDtiGr</item>
+        <item>VitiGr</item>
+    </array>
+    <array name="_60a1">
+        <item>Pow</item>
+        <item>Mod</item>
+        <item>SvSt</item>
+        <item>SetTem</item>
+        <item>Add0.1</item>
+        <item>CleanTime</item>
+        <item>CleanState</item>
+        <item>CoolSvStTemMin</item>
+        <item>HeatSvStTemMax</item>
+        <item>HumiSvStTemMin</item>
+        <item>HumiEnable</item>
+        <item>SetCoolHumi</item>
+        <item>GetEr</item>
+        <item>MasSub</item>
+        <item>SetDeciTem</item>
+        <item>SwhSlp</item>
+        <item>Quiet</item>
+        <item>WdSpd</item>
+        <item>SwUpDn</item>
+        <item>SwingLfRig</item>
+        <item>Blo</item>
+        <item>Air</item>
+        <item>GoOut</item>
+        <item>LowDeHumi</item>
+        <item>AppTimer</item>
+        <item>OutHome</item>
+        <item>ErrType1</item>
+        <item>ErrType2</item>
+    </array>
+    <array name="_6301">
+        <item>Pow</item>
+        <item>Mod</item>
+        <item>SetTem</item>
+        <item>SvSt</item>
+        <item>HeatSvStTemMax</item>
+        <item>HumiSvStTemMin</item>
+        <item>CoolSvStTemMin</item>
+        <item>MasSub</item>
+        <item>GetEr</item>
+        <item>GoOut</item>
+        <item>Heat3DSvStTemMax</item>
+        <item>name</item>
+        <item>host</item>
+    </array>
+    <array name="_6400">
+        <item>Pow</item>
+        <item>Mod</item>
+        <item>SvSt</item>
+        <item>SetTem</item>
+        <item>Add0.1</item>
+        <item>CleanTime</item>
+        <item>CleanState</item>
+        <item>CoolSvStTemMin</item>
+        <item>HeatSvStTemMax</item>
+        <item>HumiSvStTemMin</item>
+        <item>HumiEnable</item>
+        <item>SetCoolHumi</item>
+        <item>GetEr</item>
+        <item>MasSub</item>
+        <item>SetDeciTem</item>
+        <item>SwhSlp</item>
+        <item>Quiet</item>
+        <item>WdSpd</item>
+        <item>SwUpDn</item>
+        <item>SwingLfRig</item>
+        <item>Blo</item>
+        <item>Air</item>
+        <item>AppTimer</item>
+        <item>AutoSetTemEn</item>
+        <item>CleanEn</item>
+        <item>AutoClean</item>
+        <item>ExtraMod</item>
+        <item>InSeries</item>
+        <item>HalfTemEn</item>
+        <item>Heat3DSvStTemMax</item>
+        <item>Heat2SvStTemMax</item>
+        <item>GoOut</item>
+        <item>LowDeHumi</item>
+        <item>ErrType</item>
+    </array>
+    <array name="_70001">
+        <item>Elem</item>
+        <item>Voice</item>
+        <item>Disfe</item>
+        <item>Anion</item>
+        <item>Hotdry</item>
+        <item>Airdry</item>
+        <item>Lig</item>
+        <item>AirdryT</item>
+        <item>HotdryT</item>
+        <item>DisfeT</item>
+        <item>HanLoc</item>
+    </array>
+    <array name="_70101">
+        <item>Open</item>
+        <item>PowerValue</item>
+        <item>Error</item>
+    </array>
+    <array name="_70102">
+        <item>Open</item>
+        <item>PowerValue</item>
+        <item>Error</item>
+    </array>
+    <array name="_70103">
+        <item>Open</item>
+        <item>PowerValue</item>
+        <item>Error</item>
+    </array>
+    <array name="_70104">
+        <item>Open</item>
+        <item>Error</item>
+    </array>
+    <array name="_70105">
+        <item>Open</item>
+        <item>PowerValue</item>
+        <item>Error</item>
+    </array>
+    <array name="_70201">
+        <item>OnlineStatus</item>
+        <item>DeviceName</item>
+    </array>
+    <array name="_70202">
+        <item>RemoteStatus</item>
+        <item>OnlineStatus</item>
+        <item>DeviceName</item>
+        <item>DeviceTypeName</item>
+    </array>
+    <array name="_70203">
+        <item>RemoteStatus</item>
+        <item>OnlineStatus</item>
+        <item>DeviceName</item>
+        <item>DeviceTypeName</item>
+        <item>Percentage</item>
+    </array>
+    <array name="_70204">
+        <item>OnlineStatus</item>
+        <item>DeviceName</item>
+    </array>
+    <array name="_70402">
+        <item>AutoLeftWai</item>
+        <item>AutoLeftLeg</item>
+        <item>AutoRighWai</item>
+        <item>AutoRighLeg</item>
+        <item>HumLeftWai</item>
+        <item>HumLeftLeg</item>
+        <item>HumRighWai</item>
+        <item>HumRighLeg</item>
+    </array>
+    <array name="_80000">
+        <item>name</item>
+        <item>upSpeed</item>
+        <item>downSpeed</item>
+    </array>
+    <array name="_80001">
+        <item>name</item>
+    </array>
+    <array name="_80202">
+    </array>
+    <array name="_80204">
+        <item>Pow</item>
+        <item>Hid</item>
+    </array>
+    <array name="_80221">
+        <item>Pow</item>
+        <item>Mod</item>
+        <item>SetTem</item>
+        <item>WdSpd</item>
+        <item>Add0.5</item>
+        <item>Air</item>
+        <item>name</item>
+        <item>TemUn</item>
+        <item>TemRec</item>
+        <item>StHt</item>
+        <item>SvSt</item>
+    </array>
+    <array name="_80222">
+        <item>Pow</item>
+        <item>Mod</item>
+        <item>SetTem</item>
+        <item>WdSpd</item>
+        <item>Air</item>
+        <item>name</item>
+        <item>StHt</item>
+        <item>SvSt</item>
+    </array>
+    <array name="_80241">
+        <item>Pow</item>
+        <item>LigPow</item>
+        <item>ScrTime</item>
+        <item>AutoCtr</item>
+        <item>TemSor</item>
+        <item>HumSor</item>
+        <item>HCHO</item>
+        <item>PM2P5</item>
+        <item>CO2</item>
+        <item>InAirQuality</item>
+        <item>SensorErr</item>
+        <item>BatteryWarn</item>
+    </array>
+    <array name="_80242">
+        <item>Pow</item>
+        <item>LigPow</item>
+        <item>ScrTime</item>
+        <item>AutoCtr</item>
+        <item>TemSor</item>
+        <item>HumSor</item>
+        <item>HCHO</item>
+        <item>PM2P5</item>
+        <item>CO2</item>
+        <item>InAirQuality</item>
+        <item>SensorErr</item>
+        <item>BatteryWarn</item>
+    </array>
+    <array name="_80261">
+        <item>WorkState</item>
+        <item>JFerr</item>
+    </array>
+    <array name="_80300">
+        <item>SubOnline</item>
+        <item>Random</item>
+    </array>
+    <array name="_80303">
+        <item>SubOnline</item>
+        <item>Random</item>
+    </array>
+    <array name="_80401">
+        <item>Pow</item>
+    </array>
+    <array name="_80501">
+        <item>OpenPercent</item>
+    </array>
+    <array name="_806004">
+        <item>Pow</item>
+        <item>Mod</item>
+        <item>HeWatOutTemSet</item>
+        <item>HeWatOutTemSetFloor</item>
+        <item>CoWatOutTemSet</item>
+        <item>SvSt</item>
+        <item>AllErr</item>
+        <item>FloorHeat</item>
+        <item>TemUn</item>
+    </array>
+    <array name="_80601">
+        <item>Battery</item>
+        <item>Hid</item>
+        <item>Version</item>
+    </array>
+    <array name="_807001">
+        <item>Pow</item>
+        <item>Mod</item>
+        <item>TemUn</item>
+        <item>TemRec</item>
+        <item>CoEnvTemSet</item>
+        <item>DEnvTemSet</item>
+        <item>WdEnvTemSet</item>
+        <item>HeEnvTemSet</item>
+        <item>FheEnvTemSet</item>
+        <item>AllErr</item>
+        <item>host</item>
+        <item>name</item>
+    </array>
+    <array name="_80701">
+        <item>TempInt</item>
+        <item>TempPoint</item>
+        <item>HumiInt</item>
+        <item>HumiPoint</item>
+        <item>Battery</item>
+        <item>ShowType</item>
+        <item>Hid</item>
+        <item>Version</item>
+    </array>
+    <array name="_80702">
+        <item>water_out</item>
+        <item>Vol</item>
+        <item>Hid</item>
+        <item>Version</item>
+    </array>
+    <array name="_80704">
+        <item>SOSType</item>
+        <item>Battery</item>
+        <item>Hid</item>
+        <item>Version</item>
+    </array>
+    <array name="_80801">
+        <item>Pow</item>
+        <item>CountDownTime</item>
+        <item>CountDownState</item>
+        <item>CountDownFlag</item>
+        <item>RealTimePower</item>
+        <item>MessagePushFlag</item>
+    </array>
+    <array name="_80802">
+        <item>Pow</item>
+        <item>MessagePushFlag</item>
+    </array>
+    <array name="_80803">
+        <item>Pow</item>
+        <item>MessagePushFlag</item>
+    </array>
+    <array name="_80901">
+        <item>SubOnline</item>
+        <item>Random</item>
+    </array>
+    <array name="_809030">
+        <item>Pow</item>
+        <item>Mod</item>
+        <item>Temp</item>
+        <item>WtTemp</item>
+        <item>ColWtSetTem</item>
+        <item>HtWtSetTem</item>
+        <item>ColSetTem</item>
+        <item>HtSetTem</item>
+        <item>AcSvSt</item>
+        <item>SvSt</item>
+        <item>AssHt</item>
+        <item>Quiet</item>
+        <item>OutMode</item>
+        <item>Er</item>
+        <item>TemUn</item>
+        <item>host</item>
+        <item>name</item>
+        <item>HWMax</item>
+        <item>HWMin</item>
+        <item>HSMax</item>
+        <item>HSMin</item>
+        <item>CWMax</item>
+        <item>CWMin</item>
+        <item>CSMax</item>
+        <item>CSMin</item>
+        <item>AntiF</item>
+        <item>SvStDebug</item>
+    </array>
+    <array name="_809031">
+        <item>Pow</item>
+        <item>Mod</item>
+        <item>ColWtSetTem</item>
+        <item>HtWtSetTem</item>
+        <item>ColSetTem</item>
+        <item>HtSetTem</item>
+        <item>IndoorTem</item>
+        <item>OutWtTem</item>
+        <item>ErrCode1</item>
+        <item>ErrCode2</item>
+        <item>ErrCode3</item>
+        <item>OutHome</item>
+        <item>AcSvSt</item>
+    </array>
+    <array name="_81000">
+        <item>InBedState</item>
+        <item>Recharge</item>
+        <item>Battery</item>
+        <item>Hid</item>
+        <item>Version</item>
+    </array>
+    <array name="_828100">
+        <item>Pow</item>
+        <item>PM2P5</item>
+        <item>mode</item>
+        <item>wspd</item>
+        <item>light</item>
+        <item>wipm25</item>
+        <item>wopm25</item>
+        <item>estate</item>
+    </array>
+    <array name="_828102">
+        <item>Pow</item>
+        <item>PM2P5</item>
+        <item>mode</item>
+        <item>wspd</item>
+        <item>light</item>
+        <item>wipm25</item>
+        <item>wopm25</item>
+        <item>estate</item>
+        <item>FiltUT</item>
+        <item>MidType</item>
+        <item>FiltUPercent</item>
+    </array>
+    <array name="_828103">
+        <item>Pow</item>
+        <item>PM2P5</item>
+        <item>mode</item>
+        <item>wspd</item>
+        <item>light</item>
+        <item>wipm25</item>
+        <item>wopm25</item>
+        <item>FomadeValue</item>
+        <item>StTmr</item>
+        <item>TmrOff</item>
+        <item>TmrOn</item>
+        <item>FiltUT</item>
+        <item>FiltBT</item>
+        <item>estate</item>
+        <item>estate1</item>
+        <item>MeshWarning1</item>
+        <item>MidType</item>
+        <item>FiltUPercent</item>
+        <item>LifeTimeMesh1</item>
+        <item>LifeTimeMesh2</item>
+        <item>AirChildLock</item>
+        <item>meshid</item>
+        <item>LifeTimeError</item>
+        <item>hid</item>
+        <item>JFerr</item>
+    </array>
+    <array name="_828104">
+        <item>Pow</item>
+        <item>PM2P5</item>
+        <item>mode</item>
+        <item>wspd</item>
+        <item>light</item>
+        <item>wipm25</item>
+        <item>wopm25</item>
+        <item>estate</item>
+    </array>
+    <array name="_828105">
+        <item>Pow</item>
+        <item>mode</item>
+        <item>wipm25</item>
+        <item>light</item>
+        <item>FiltUPercent</item>
+        <item>FiltUPercent1</item>
+        <item>FiltUPercent2</item>
+        <item>JFerr</item>
+        <item>estate</item>
+        <item>estate2</item>
+        <item>sterilize</item>
+    </array>
+    <array name="_828140">
+        <item>Pow</item>
+        <item>Wspd</item>
+        <item>Mode</item>
+        <item>EnvHumidity</item>
+        <item>SetHumidity</item>
+        <item>PM25</item>
+        <item>AirChildLock</item>
+        <item>ReplaceFilter</item>
+        <item>RefreshWater</item>
+        <item>Light</item>
+        <item>FiltUPercent</item>
+        <item>TmrHour</item>
+        <item>TmrMin</item>
+        <item>TmrOn</item>
+        <item>TmrAction</item>
+        <item>estate1</item>
+        <item>estate2</item>
+        <item>estate3</item>
+        <item>MidType</item>
+    </array>
+    <array name="_828200">
+        <item>Pow</item>
+        <item>WdSpd</item>
+        <item>Mod</item>
+        <item>host</item>
+        <item>name</item>
+    </array>
+    <array name="_828202">
+        <item>Pow</item>
+        <item>WdSpd</item>
+        <item>Mod</item>
+        <item>Wet</item>
+        <item>estate</item>
+        <item>estate2</item>
+        <item>estate1</item>
+        <item>estate3</item>
+        <item>MidType</item>
+        <item>host</item>
+        <item>name</item>
+    </array>
+    <array name="_828203">
+        <item>Pow</item>
+        <item>WdSpd</item>
+        <item>Mod</item>
+        <item>estate</item>
+        <item>estate2</item>
+        <item>host</item>
+        <item>name</item>
+    </array>
+    <array name="_828204">
+        <item>Pow</item>
+        <item>WdSpd</item>
+        <item>Mod</item>
+        <item>Cycle</item>
+        <item>Rotate</item>
+        <item>TmrHour</item>
+        <item>TmrMin</item>
+        <item>TmrOn</item>
+        <item>TmrAction</item>
+        <item>estate3</item>
+    </array>
+    <array name="_828205">
+        <item>Pow</item>
+        <item>WdSpd</item>
+        <item>Mod</item>
+        <item>HotWind</item>
+        <item>estate</item>
+        <item>estate2</item>
+        <item>estate3</item>
+    </array>
+    <array name="_828208">
+        <item>Pow</item>
+        <item>Rotate</item>
+        <item>Mod</item>
+        <item>WdSpd</item>
+        <item>PM25</item>
+        <item>LRAngle</item>
+        <item>SwUpDn</item>
+        <item>TmrOn</item>
+        <item>TmrAction</item>
+        <item>TmrHour</item>
+        <item>TmrMin</item>
+        <item>estate1</item>
+        <item>estate3</item>
+        <item>JFerr</item>
+        <item>rssi</item>
+        <item>host</item>
+        <item>name</item>
+    </array>
+    <array name="_828209">
+        <item>Pow</item>
+        <item>Rotate</item>
+        <item>Mod</item>
+        <item>WdSpd</item>
+        <item>Cycle</item>
+        <item>SwUpDn</item>
+        <item>UpDnAngle</item>
+        <item>LRAngle</item>
+        <item>TmrOn</item>
+        <item>TmrAction</item>
+        <item>TmrHour</item>
+        <item>TmrMin</item>
+        <item>estate</item>
+        <item>estate1</item>
+        <item>estate2</item>
+        <item>JFerr</item>
+        <item>host</item>
+        <item>name</item>
+    </array>
+    <array name="_828210">
+        <item>Pow</item>
+        <item>Rotate</item>
+        <item>Mod</item>
+        <item>WdSpd</item>
+        <item>HotWind</item>
+        <item>HotwindOnOff</item>
+        <item>LRAngle</item>
+        <item>TmrOn</item>
+        <item>TmrAction</item>
+        <item>TmrHour</item>
+        <item>TmrMin</item>
+        <item>estate1</item>
+        <item>JFerr</item>
+        <item>rssi</item>
+        <item>estate3</item>
+        <item>host</item>
+        <item>name</item>
+    </array>
+    <array name="_828211">
+        <item>Pow</item>
+        <item>Rotate</item>
+        <item>LRAngle</item>
+        <item>Mod</item>
+        <item>WdSpd</item>
+        <item>TmrOn</item>
+        <item>TmrAction</item>
+        <item>TmrHour</item>
+        <item>TmrMin</item>
+        <item>estate</item>
+        <item>JFerr</item>
+        <item>host</item>
+        <item>name</item>
+    </array>
+    <array name="_828212">
+        <item>Pow</item>
+        <item>Rotate</item>
+        <item>Mod</item>
+        <item>WdSpd</item>
+        <item>TmrOn</item>
+        <item>TmrAction</item>
+        <item>TmrHour</item>
+        <item>TmrMin</item>
+        <item>estate2</item>
+        <item>JFerr</item>
+        <item>host</item>
+        <item>name</item>
+    </array>
+    <array name="_828300">
+        <item>Mode</item>
+        <item>ClnTds</item>
+        <item>MakeWat</item>
+        <item>WatErr</item>
+    </array>
+    <array name="_828301">
+        <item>WorkStatus</item>
+        <item>ErrorCode1</item>
+        <item>ErrorCode2</item>
+    </array>
+    <array name="_828302">
+        <item>mode</item>
+        <item>ClnTds</item>
+        <item>MakeWat</item>
+        <item>estate</item>
+        <item>host</item>
+        <item>name</item>
+    </array>
+    <array name="_828304">
+        <item>WorkStatus</item>
+        <item>ErrorCode1</item>
+        <item>ErrorCode2</item>
+        <item>JFerr</item>
+        <item>host</item>
+        <item>name</item>
+    </array>
+    <array name="_828305">
+        <item>ErrorCode1</item>
+        <item>ErrorCode2</item>
+        <item>ErrorCode3</item>
+        <item>InPressC</item>
+        <item>InPressN</item>
+        <item>MemPressC</item>
+        <item>MemPressN</item>
+        <item>InElecC</item>
+        <item>InElecN</item>
+        <item>ProElecC</item>
+        <item>ProElecN</item>
+        <item>RawLevelC</item>
+        <item>RawLevelN</item>
+        <item>ProLevelC</item>
+        <item>ProLevelN</item>
+    </array>
+    <array name="_828401">
+        <item>Pow</item>
+        <item>mode</item>
+        <item>TmrEn</item>
+        <item>StTmr</item>
+        <item>SchEn</item>
+        <item>SchTmr</item>
+        <item>Rice</item>
+        <item>Textre</item>
+        <item>KpTpEn</item>
+        <item>KpTpTmr</item>
+        <item>estate</item>
+        <item>estate2</item>
+    </array>
+    <array name="_828402">
+        <item>Pow</item>
+        <item>mode</item>
+        <item>TmrEn</item>
+        <item>StTmr</item>
+        <item>SchEn</item>
+        <item>SchTmr</item>
+        <item>Rice</item>
+        <item>Textre</item>
+        <item>StpRic</item>
+        <item>KpTpEn</item>
+        <item>KpTpTmr</item>
+        <item>ModeTmr</item>
+        <item>estate</item>
+        <item>estate2</item>
+        <item>Volt</item>
+        <item>estate3</item>
+        <item>estate4</item>
+        <item>MidType</item>
+    </array>
+    <array name="_828403">
+        <item>Pow</item>
+        <item>mode</item>
+        <item>TmrEn</item>
+        <item>StTmr</item>
+        <item>SchEn</item>
+        <item>SchTmr</item>
+        <item>Rice</item>
+        <item>Textre</item>
+        <item>StpRic</item>
+        <item>KpTpEn</item>
+        <item>KpTpTmr</item>
+        <item>ModeTmr</item>
+        <item>estate</item>
+        <item>estate2</item>
+        <item>Volt</item>
+        <item>estate3</item>
+        <item>estate4</item>
+        <item>MidType</item>
+    </array>
+    <array name="_828404">
+        <item>Pow</item>
+        <item>mode</item>
+        <item>TmrEn</item>
+        <item>StTmr</item>
+        <item>SchEn</item>
+        <item>SchTmr</item>
+        <item>Rice</item>
+        <item>Textre</item>
+        <item>StpRic</item>
+        <item>KpTpEn</item>
+        <item>KpTpTmr</item>
+        <item>ModeTmr</item>
+        <item>Runlight</item>
+        <item>estate</item>
+        <item>estate2</item>
+        <item>estate3</item>
+        <item>estate4</item>
+    </array>
+    <array name="_828405">
+        <item>Pow</item>
+        <item>mode</item>
+        <item>TmrEn</item>
+        <item>StTmr</item>
+        <item>SchEn</item>
+        <item>SchTmr</item>
+        <item>Rice</item>
+        <item>Textre</item>
+        <item>StpRic</item>
+        <item>KpTpEn</item>
+        <item>KpTpTmr</item>
+        <item>ModeTmr</item>
+        <item>Runlight</item>
+        <item>estate</item>
+        <item>estate2</item>
+        <item>estate3</item>
+        <item>estate4</item>
+    </array>
+    <array name="_828500">
+        <item>Pow</item>
+        <item>wspd</item>
+        <item>estate</item>
+    </array>
+    <array name="_828502">
+        <item>Pow</item>
+        <item>Mode</item>
+        <item>FogLevel</item>
+        <item>WaterTankLight</item>
+        <item>Humidity</item>
+        <item>Estate1</item>
+        <item>Estate2</item>
+        <item>Estate3</item>
+        <item>MidType</item>
+    </array>
+    <array name="_828503">
+        <item>Pow</item>
+        <item>Mode</item>
+        <item>FogLevel</item>
+        <item>Humidity</item>
+        <item>Sleep</item>
+        <item>Estate1</item>
+        <item>Estate2</item>
+        <item>JFerr</item>
+        <item>MidType</item>
+        <item>TmrHour</item>
+        <item>TmrMin</item>
+        <item>TmrAction</item>
+        <item>TmrOn</item>
+        <item>UV</item>
+    </array>
+    <array name="_828600">
+        <item>Pow</item>
+        <item>mode</item>
+        <item>wspd</item>
+        <item>light</item>
+        <item>estate</item>
+        <item>estate2</item>
+        <item>RightCooker</item>
+        <item>LeftCooker</item>
+        <item>CookerBattery</item>
+        <item>MidType</item>
+        <item>JFerr</item>
+    </array>
+    <array name="_828601">
+        <item>Pow</item>
+        <item>mode</item>
+        <item>wspd</item>
+        <item>light</item>
+        <item>estate</item>
+        <item>estate2</item>
+        <item>union</item>
+        <item>CookerBattery</item>
+        <item>JFerr</item>
+    </array>
+    <array name="_828700">
+        <item>Pow</item>
+        <item>UpMod</item>
+        <item>DnMod</item>
+        <item>AtoMod</item>
+        <item>UpTmr</item>
+        <item>DnTmr</item>
+        <item>host</item>
+        <item>name</item>
+        <item>estate</item>
+        <item>estate2</item>
+    </array>
+    <array name="_828901">
+        <item>Pow</item>
+        <item>Wash</item>
+        <item>WashDone</item>
+        <item>WorkStatus</item>
+        <item>PauseStart</item>
+        <item>Mod</item>
+        <item>LayerWash</item>
+        <item>Dry</item>
+        <item>Hard</item>
+        <item>StHard</item>
+        <item>RmTmrHour</item>
+        <item>RmTmrMin</item>
+        <item>TmrOff</item>
+        <item>TmrOn</item>
+        <item>estate1</item>
+        <item>estate2</item>
+        <item>TmrStatus</item>
+        <item>TmrHour</item>
+        <item>TmrMin</item>
+        <item>Disinfect</item>
+        <item>JFerr</item>
+        <item>MidType</item>
+    </array>
+    <array name="_828902">
+        <item>Pow</item>
+        <item>Wash</item>
+        <item>WashDone</item>
+        <item>WorkStatus</item>
+        <item>PauseStart</item>
+        <item>Mod</item>
+        <item>Lock</item>
+        <item>Dry</item>
+        <item>RmTmrHour</item>
+        <item>RmTmrMin</item>
+        <item>TmrOn</item>
+        <item>TmrHour</item>
+        <item>TmrMin</item>
+        <item>Disinfect</item>
+        <item>Purifier</item>
+        <item>PurifierTime</item>
+        <item>estate1</item>
+        <item>estate2</item>
+        <item>JFerr</item>
+        <item>LayerWash</item>
+    </array>
+    <array name="_828a00">
+        <item>Pow</item>
+        <item>Swing</item>
+        <item>SetTemp</item>
+        <item>HeatMode</item>
+        <item>HeatLevel</item>
+        <item>MidType</item>
+        <item>estate</item>
+        <item>estate2</item>
+        <item>estate3</item>
+        <item>host</item>
+        <item>name</item>
+        <item>TmrOn</item>
+        <item>TmrHour</item>
+        <item>TmrMin</item>
+    </array>
+    <array name="_828a01">
+        <item>Pow</item>
+        <item>Swing</item>
+        <item>SetTemp</item>
+        <item>HeatMode</item>
+        <item>HeatLevel</item>
+        <item>MidType</item>
+        <item>estate</item>
+        <item>estate2</item>
+        <item>estate3</item>
+        <item>host</item>
+        <item>name</item>
+        <item>TmrOn</item>
+        <item>TmrHour</item>
+        <item>TmrMin</item>
+    </array>
+    <array name="_828a02">
+        <item>Pow</item>
+        <item>Swing</item>
+        <item>SetTemp</item>
+        <item>HeatMode</item>
+        <item>HeatLevel</item>
+        <item>MidType</item>
+        <item>estate</item>
+        <item>estate2</item>
+        <item>estate3</item>
+        <item>host</item>
+        <item>name</item>
+        <item>TmrOn</item>
+        <item>TmrHour</item>
+        <item>TmrMin</item>
+    </array>
+    <array name="_828a03">
+        <item>Pow</item>
+        <item>Swing</item>
+        <item>SetTemp</item>
+        <item>HeatMode</item>
+        <item>HeatLevel</item>
+        <item>MidType</item>
+        <item>estate</item>
+        <item>estate2</item>
+        <item>estate3</item>
+        <item>host</item>
+        <item>name</item>
+        <item>TmrOn</item>
+        <item>TmrHour</item>
+        <item>TmrMin</item>
+    </array>
+    <array name="_828a04">
+        <item>Pow</item>
+        <item>SetTemp</item>
+        <item>HeatMod</item>
+        <item>AirChildLock</item>
+        <item>TimeStart</item>
+        <item>TmrHour</item>
+        <item>TmrMin</item>
+        <item>TmrAction</item>
+        <item>estate</item>
+        <item>estate2</item>
+        <item>JFerr</item>
+        <item>host</item>
+        <item>name</item>
+    </array>
+    <array name="_828a05">
+        <item>Pow</item>
+        <item>Swing</item>
+        <item>SetTemp</item>
+        <item>HeatMode</item>
+        <item>HeatLevel</item>
+        <item>TmrOn</item>
+        <item>TmrHour</item>
+        <item>TmrMin</item>
+        <item>TmrAction</item>
+        <item>estate</item>
+        <item>estate2</item>
+        <item>estate3</item>
+        <item>JFerr</item>
+        <item>host</item>
+        <item>name</item>
+    </array>
+    <array name="_828b00">
+        <item>Pow</item>
+        <item>Wash</item>
+        <item>WashDone</item>
+        <item>WorkStatus</item>
+        <item>PauseStart</item>
+        <item>Mod</item>
+        <item>LayerWash</item>
+        <item>Dry</item>
+        <item>Hard</item>
+        <item>StHard</item>
+        <item>RmTmrHour</item>
+        <item>RmTmrMin</item>
+        <item>TmrOff</item>
+        <item>TmrOn</item>
+        <item>estate1</item>
+        <item>estate2</item>
+        <item>TmrStatus</item>
+        <item>TmrHour</item>
+        <item>TmrMin</item>
+        <item>JFerr</item>
+    </array>
+    <array name="_828c00">
+        <item>Pow</item>
+        <item>Wmod</item>
+        <item>WsetTmp</item>
+        <item>WsetTmpC</item>
+        <item>PrvHeat</item>
+        <item>Werr</item>
+        <item>Wout</item>
+        <item>host</item>
+        <item>name</item>
+        <item>SvSt</item>
+        <item>WschOn</item>
+    </array>
+    <array name="_828c02">
+        <item>Pow</item>
+        <item>Wmod</item>
+        <item>WsetTmp</item>
+        <item>WsetTmpC</item>
+        <item>PrvHeat</item>
+        <item>Werr</item>
+        <item>Wout</item>
+        <item>host</item>
+        <item>name</item>
+        <item>SvSt</item>
+        <item>WschOn</item>
+    </array>
+    <array name="_828d04">
+        <item>Pow</item>
+        <item>RunStat</item>
+        <item>Mod</item>
+        <item>List1</item>
+        <item>List2</item>
+        <item>List3</item>
+        <item>List4</item>
+        <item>List5</item>
+        <item>SetHour</item>
+        <item>SetMin</item>
+        <item>SetTmp</item>
+        <item>TmrHour</item>
+        <item>TmrMin</item>
+        <item>Pause</item>
+        <item>DisTmp</item>
+        <item>DisSetHour</item>
+        <item>DisSetMin</item>
+        <item>DisTmrHour</item>
+        <item>DisTmrMin</item>
+        <item>MachStat</item>
+        <item>TmpCtrl</item>
+        <item>ChildLock</item>
+        <item>estate1</item>
+        <item>estate2</item>
+        <item>estate3</item>
+        <item>estate4</item>
+        <item>estate5</item>
+    </array>
+    <array name="_828e00">
+        <item>Light</item>
+        <item>Wind</item>
+        <item>WatPump</item>
+        <item>LigOnH</item>
+        <item>LigOnM</item>
+        <item>LigOffH</item>
+        <item>LigOffM</item>
+        <item>WindOnH</item>
+        <item>WindOnM</item>
+        <item>WindOffH</item>
+        <item>WindOffM</item>
+        <item>WatOnH</item>
+        <item>WatOnM</item>
+        <item>WatOffH</item>
+        <item>WatOffM</item>
+        <item>PltType</item>
+        <item>TempS</item>
+        <item>TempR</item>
+        <item>HumdS</item>
+        <item>HumdR</item>
+    </array>
+    <array name="_830000">
+        <item>Pow</item>
+    </array>
+    <array name="_8600">
+        <item>Pow</item>
+        <item>Wmod</item>
+        <item>WsetTmp</item>
+        <item>WsetTmpC</item>
+        <item>PrvHeat</item>
+        <item>Werr</item>
+        <item>Wout</item>
+        <item>host</item>
+        <item>name</item>
+        <item>SvSt</item>
+        <item>WschOn</item>
+    </array>
+    <array name="_88001">
+        <item>BulbM</item>
+        <item>Bulb1</item>
+        <item>Bulb2</item>
+        <item>Bulb3</item>
+        <item>Bulb4</item>
+        <item>Bulb5</item>
+        <item>Bulb6</item>
+        <item>Bulb7</item>
+        <item>Bulb8</item>
+    </array>
+    <array name="_88002">
+        <item>BulbM</item>
+        <item>Bulb1</item>
+        <item>Bulb2</item>
+        <item>Bulb3</item>
+        <item>Bulb4</item>
+        <item>Bulb5</item>
+        <item>Bulb6</item>
+        <item>Bulb7</item>
+        <item>Bulb8</item>
+    </array>
+    <array name="_88888">
+        <item>BulbM</item>
+        <item>Bulb1</item>
+        <item>Bulb2</item>
+        <item>Bulb3</item>
+        <item>Bulb4</item>
+        <item>Bulb5</item>
+        <item>Bulb6</item>
+        <item>Bulb7</item>
+        <item>Bulb8</item>
+    </array>
+    <array name="_9000">
+        <item>Pow</item>
+        <item>Wmod</item>
+        <item>WatTmp</item>
+        <item>WsetTmp</item>
+        <item>WstpSv</item>
+        <item>WstpH</item>
+        <item>Werr</item>
+        <item>host</item>
+    </array>
+    <array name="_910001">
+        <item>Pow</item>
+        <item>AllErr</item>
+        <item>Wmod</item>
+        <item>SetTemInt</item>
+        <item>SetTemDec</item>
+        <item>TemUn</item>
+        <item>host</item>
+        <item>name</item>
+        <item>WstpSv</item>
+        <item>WstpH</item>
+        <item>Wstate</item>
+        <item>Watpercent</item>
+        <item>WatTmp</item>
+    </array>
+    <array name="_910002">
+        <item>Pow</item>
+        <item>AllErr</item>
+        <item>Mod</item>
+        <item>SetTemInt</item>
+        <item>SetTemDec</item>
+        <item>TemUn</item>
+        <item>host</item>
+        <item>name</item>
+    </array>
+    <array name="_910003">
+        <item>Pow</item>
+        <item>AllErr</item>
+        <item>SetTemInt</item>
+        <item>SetTemDec</item>
+        <item>TemUn</item>
+        <item>HtMod</item>
+        <item>host</item>
+        <item>name</item>
+    </array>
+    <array name="_f000">
+        <item>Pow</item>
+        <item>Mod</item>
+        <item>SetTem</item>
+        <item>WdSpd</item>
+        <item>Lig</item>
+        <item>SvSt</item>
+        <item>TmrOnMinLf</item>
+        <item>TmrOffMinLf</item>
+        <item>VoltLowSet</item>
+        <item>VoltWarn</item>
+        <item>VoltNow</item>
+        <item>SwhSlp</item>
+    </array>
+    <array name="ac_config_type">
+        <item>0</item>
+        <item>2</item>
+        <item>2</item>
+        <item>1</item>
+        <item>1</item>
+        <item>1</item>
+        <item>1</item>
+        <item>1</item>
+        <item>1</item>
+        <item>1</item>
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>3</item>
+        <item>3</item>
+        <item>3</item>
+        <item>3</item>
+        <item>1</item>
+        <item>1</item>
+        <item>2</item>
+        <item>2</item>
+        <item>3</item>
+        <item>3</item>
+        <item>3</item>
+        <item>1</item>
+        <item>1</item>
+        <item>1</item>
+        <item>1</item>
+        <item>3</item>
+        <item>1</item>
+        <item>3</item>
+        <item>3</item>
+        <item>2</item>
+        <item>1</item>
+        <item>1</item>
+        <item>1</item>
+        <item>1</item>
+        <item>1</item>
+        <item>5</item>
+        <item>1</item>
+    </array>
+    <array name="ac_mid">
+        <item />
+        <item>11002</item>
+        <item>11002</item>
+        <item>11002</item>
+        <item>10011</item>
+        <item>11002</item>
+        <item>11002</item>
+        <item>11002</item>
+        <item>11000</item>
+        <item>11005</item>
+        <item>11008</item>
+        <item>11002</item>
+        <item>11002</item>
+        <item>11002</item>
+        <item>11002</item>
+        <item>11002</item>
+        <item>11002</item>
+        <item>11002</item>
+        <item>11002</item>
+        <item>11002</item>
+        <item>11002</item>
+        <item>11000</item>
+        <item>11000</item>
+        <item>11000</item>
+        <item>10010</item>
+        <item>10011</item>
+        <item>11005</item>
+        <item>11000</item>
+        <item>11002</item>
+        <item>11009</item>
+        <item>11000</item>
+        <item>11000</item>
+        <item>11000</item>
+        <item>11000</item>
+        <item>11002</item>
+        <item>11002</item>
+        <item>10f04</item>
+        <item>11002</item>
+        <item>11002</item>
+        <item>10f05</item>
+    </array>
+    <array name="ac_scancode">
+        <item />
+        <item>KFR-26GNhLaB3W、KFR-35GNhLbB3W、KFR-26GNhLbB3W、KFR-35GNhLcB3W、KFR-26GNhLcB3W、KFR-35GNhLdB3W、KFR-26GNhLdB3W、KFR-35GNhPaB1W、KFR-26GNhCe3BAj、 KFR-26GNhCe3BAt、KFR-26GNhCe3BAs、KFR-26GNhCe3BAg、KFR-35GNhCe3BAj、KFR-35GNhCe3BAt、KFR-35GNhCe3BAs、KFR-35GNhCe3BAg</item>
+        <item>KFR-26GNhPaB1W、KFR-35GNhPbB1W、KFR-26GNhPbB1W、KFR-35GNhPcB1W、KFR-26GNhPcB1W、KFR-35GNhPeB1W、KFR-26GNhPeB1W、KFR-35GNhPdB1W、KFR-26GNhPdB1W</item>
+        <item>KFR-35GNhLeB3W、KFR-26GNhLeB3W</item>
+        <item>KFR-26G(26537)FNhAa-A1(WIFI)、KFR-32G(32537)FNhAa-A1(WIFI)、KFR-35G(35537)FNhAa-A1(WIFI)、KFR-26G(26537)FNhCa-A1(WIFI)、 KFR-32G(32537)FNhCa-A1(WIFI)、KFR-35G(35537)FNhCa-A1(WIFI)、KFR-26G(26537)FNhCa-A1(WIFI)、KFR-32G(32537)FNhCa-A1(WIFI)、 KFR-35G(35537)FNhCa-A1(WIFI)</item>
+        <item>KFR-50GNhIc1BW、KFR-50GNhId1BW</item>
+        <item>KFR-26G(26509)FNhAa-B1(WIFI)、KFR-32G(32509)FNhAa-B1(WIFI)、KFR-35G(35509)FNhAa-B1(WIFI)</item>
+        <item>KFR-26G(26519)FNhAa-A1(WIFI)、KFR-32G(32519)FNhAa-A1(WIFI)、KFR-35G(35519)FNhAa-A1(WIFI)</item>
+        <item>KFR-72L(72530)FNhAa-A3(WIFI)、KFR-72L(72530)FNhAb-A3(WIFI)、KFR-50L(50530)FNhAa-A3(WIFI)、KFR-50L(50530)FNhAb-A3(WIFI)、KFR-72L(72530)NhAa-3(WIFI)、KFR-72L(72530)NhAb-3(WIFI)、 KFR-50L(50530)NhAa-3(WIFI)、KFR-50L(50530)NhAb-3(WIFI)</item>
+        <item>KFR-72L(72582)FNhCb-A1(WIFI)</item>
+        <item />
+        <item>KFR-26GNhAa1BAj、KFR-26GNhAa1BAt、KFR-26GNhAa1BAs、KFR-26GNhAa1BAg、KFR-35GNhAa1BAj、KFR-35GNhAa1BAt、KFR-35GNhAa1BAs、KFR-35GNhAa1BAg</item>
+        <item>KFR-26GNhBb3BAj、KFR-35GNhBb3BAj</item>
+        <item>KFR-26GNhBc3BAs、KFR-35GNhBc3BAs</item>
+        <item>KFR-50GNhIa3BAj、KFR-72GNhIa3BAj</item>
+        <item>KFR-26GNhCc1BAj、KFR-26GNhCc1BAs、KFR-26GNhCc1BAg、KFR-26GNhCc1BAt、KFR-26GNhCd1BAj、KFR-26GNhCd1BAs、KFR-26GNhCd1BAg、KFR-26GNhCd1BAt、 KFR-35GNhCc1BAj、KFR-35GNhCc1BAs、KFR-35GNhCc1BAg、KFR-35GNhCc1BAt、KFR-35GNhCd1BAj、KFR-35GNhCd1BAs、KFR-35GNhCd1BAg、KFR-35GNhCd1BAt</item>
+        <item>KFR-35GNhHb1BAj、KFR-26GNhHb1BAj</item>
+        <item>KFR-26G(26519)FNhAa-B3(WIFI)、KFR-32G(32519)FNhAa-B3(WIFI)、KFR-35G(35519)FNhAa-B3(WIFI)</item>
+        <item>KFR-35G(35565)FNhAa-B1(WIFI)、KFR-26G(26565)FNhAa-B1(WIFI)</item>
+        <item>KFR-26GNhHa1BAj、KFR-26GNhHa1BAt、KFR-26GNhHa1BAs、KFR-35GNhHa1BAj、KFR-35GNhHa1BAt、KFR-35GNhHa1BAs</item>
+        <item>KFR-26GNhBa3BWt、KFR-35GNhBa3BWt</item>
+        <item>KFR-72LNhDd1BWt、KFR-72LNhDd1BAj、KFR-72LNhDd1BAs、KFR-72LNhDd1BAg、KFR-50LNhDd1BWt、KFR-50LNhDd1BAj、KFR-50LNhDd1BAs、KFR-50LNhDd1BAg</item>
+        <item>KFR-50LNhAa1BAj、KFR-50LNhAa1BAt、KFR-50LNhAa1BAg、KFR-50LNhAa1BAs、KFR-72LNhAa1BAj、KFR-72LNhAa1BAt、KFR-72LNhAa1BAg、KFR-72LNhAa1BAs</item>
+        <item>KFR-72LNhAb3BG、KFR-50LNhAb3BG</item>
+        <item>KFR-35G(35588)FNhAa-B1(WIFI)、KFR-26G(26588)FNhAa-B1(WIFI)、KFR-35G(35588)FNhAa-A1(WIFI)、KFR-26G(26588)FNhAa-A1(WIFI)</item>
+        <item>KFR-26G(26537)FNhAa-B1(WIFI)、KFR-26G(26537)FNhCa-B1(WIFI)、KFR-26G(26537)FNhCb-B1(WIFI)、KFR-26G(26537)FNhCc-B1(WIFI)、 KFR-32G(32537)FNhAa-B1(WIFI)、KFR-32G(32537)FNhCa-B1(WIFI)、KFR-32G(32537)FNhCb-B1(WIFI)、KFR-32G(32537)FNhCc-B1(WIFI)、 KFR-35G(35537)FNhAa-B1(WIFI)、KFR-35G(35537)FNhCa-B1(WIFI)、KFR-35G(35537)FNhCb-B1(WIFI)、KFR-35G(35537)FNhCc-B1(WIFI)、 KFR-26G(26537)FNhCd-B1(WIFI)、KFR-35G(35537)FNhCd-B1(WIFI)、KFR-35G(35537)FNhCe-B1(WIFI)</item>
+        <item>KFR-50L(50582)FNhAc-B1(WIFI)、KFR-72L(72582)FNhCb-B1(WIFI)、KFR-72L(72582)FNhCa-B1(WIFI)、KFR-50L(50582)FNhCb-B1(WIFI)、KFR-50L(50582)FNhCa-B1(WIFI)</item>
+        <item>KFR-72LNhJa1BG、KFR-50LNhJa1BG、KFR-72LNhJb1BG、KFR-50LNhJb1BG</item>
+        <item>KFR-26GNhCb2BAj、KFR-35GNhCb2BAj</item>
+        <item>KFR-72L(72501)FNhAa-B1(WIFI)、KFR-50L(50501)FNhAa-B1(WIFI)、KFR-72L(72501)FNhAa-A1(WIFI)</item>
+        <item>KFR-50LNhDc2BAj、KFR-50LNhDc2BAs、KFR-50LNhDc2BAg、KFR-50LNhDc2BWt、KFR-72LNhDc2BAj、KFR-72LNhDc2BAs、KFR-72LNhDc2BAg、KFR-72LNhDc2BWt</item>
+        <item>KFR-72LNhEa3BAj、KFR-50LNhEa3BAj</item>
+        <item>KFR-50LNhGb3BAj、KFR-72LNhGb3BAj、KFR-50LNhGb3BAt、KFR-72LNhGb3BAt、KFR-50LNhGb3BAg、KFR-72LNhGb3BAg、KFR-50LNhGb3BAs、KFR-72LNhGb3BAs</item>
+        <item>KFR-72L(72567)FNhAa-B1(WIFI)、KFR-50L(50567)FNhAa-B1(WIFI)、KFR-72L(72567)FNhAb-B1(WIFI)、KFR-50L(50567)FNhAb-B1(WIFI)、KFR-72L(72567)FNhAa-B1(WIFI)&amp;ky=1、KFR-72L(72567)FNhAb-B1(WIFI)&amp;ky=1</item>
+        <item>KFR-26G(26526)FNhAa-B3(WIFI)、KFR-32G(32526)FNhAa-B3(WIFI)、KFR-35G(35526)FNhAa-B3(WIFI)</item>
+        <item>KFR-35G(35519)FNhBb-B1(WIFI)、KFR-35G(35519)FNhBa-B1(WIFI)、KFR-26G(26519)FNhBa-B1(WIFI)、KFR-26G(26519)FNhBb-B1(WIFI)</item>
+        <item>KFR-26G(26546)FNhAa-B1(WIFI)、KFR-35G(35546)FNhAa-B1(WIFI)、KFR-26G(26546)FNhAb-B1(WIFI)、KFR-35G(35546)FNhAb-B1(WIFI)</item>
+        <item>KFR-26G(26554)FNhAa-B1(WIFI)、KFR-35G(35554)FNhAa-B1(WIFI)</item>
+        <item>KFR-72L(72518)FNhAa-B1(WIFI)、KFR-50L(50518)FNhAa-B1(WIFI)、KFR-72L(72518)FNhAa-B1(WIFI)&amp;ky=1</item>
+        <item>KFR-26G(26579)FNhCa-B1(WIFI)、KFR-35G(35579)FNhCa-B1(WIFI)、KFR-26G(26579)FNhCb-B1(WIFI)、KFR-35G(35579)FNhCb-B1(WIFI)</item>
+    </array>
+    <array name="ac_type">
+        <item>其它机型</item>
+        <item>云越_挂机</item>
+        <item>云锦_挂机</item>
+        <item>时光映_挂机</item>
+        <item>风无界_挂机</item>
+        <item>风纪元_挂机</item>
+        <item>凉之爽_挂机</item>
+        <item>悦沁_挂机</item>
+        <item>E风_柜机</item>
+        <item>风无界_柜机</item>
+        <item>风无界(语音款)_柜机</item>
+        <item>云锦-II_挂机</item>
+        <item>京逸-Ⅱ_挂机</item>
+        <item>宁炫-Ⅱ_挂机</item>
+        <item>京韵_挂机</item>
+        <item>臻净风_挂机</item>
+        <item>京慕_挂机</item>
+        <item>冷静宝_挂机</item>
+        <item>凉之静_挂机</item>
+        <item>云轩_挂机</item>
+        <item>风采-Ⅱ_挂机</item>
+        <item>云焕_柜机</item>
+        <item>云锦-Ⅱ_柜机</item>
+        <item>格力·云酷-Ⅱ_柜机</item>
+        <item>格力·玫瑰_挂机</item>
+        <item>臻新风_挂机</item>
+        <item>臻新风_柜机</item>
+        <item>云恬_柜机</item>
+        <item>京恬_挂机</item>
+        <item>格力·玫瑰_柜机</item>
+        <item>云雅_柜机</item>
+        <item>静享_柜机</item>
+        <item>云逸_柜机</item>
+        <item>时光绘_柜机</item>
+        <item>凉之韵_挂机</item>
+        <item>时光绘_挂机</item>
+        <item>智慧鸟_挂机</item>
+        <item>冷静尊_挂机</item>
+        <item>王者_柜机</item>
+        <item>月亮女神_挂机</item>
+    </array>
+    <array name="ac_type_icon">
+        <item>choosetype_s1_no_wifi</item>
+        <item>choosetype_kfr_35gnhlab3w</item>
+        <item>choosetype_kfr_35gnhpab1w</item>
+        <item>choosetype_kfr_35gnhleb3w</item>
+        <item>choosetype_kfr_35g_fnh_white</item>
+        <item>choosetype_kfr_46gwnh</item>
+        <item>configdevice_ac_yue_mu</item>
+        <item>choosetype_kfr_fnhaa_s2</item>
+        <item>configdevice_icon_ac_72l72530_fnhaa_a3</item>
+        <item>configdevice_icon_ac_72lw72582fnhcb</item>
+        <item>configdevice_icon_ac_72lw72582fnhcb</item>
+        <item>configdevice_ac_yunjin2</item>
+        <item>configdevice_ac_jing_yi2</item>
+        <item>configdevice_ac_ning_yuan2</item>
+        <item>configdevice_ac_jingyun</item>
+        <item>configdevice_ac_leng_jing_feng_ml3</item>
+        <item>configdevice_ac_jingmu</item>
+        <item>configdevice_ac_lengjingbao</item>
+        <item>configdevice_ac_liangzhijing_guaji</item>
+        <item>configdevice_ac_yunxuan</item>
+        <item>configdevice_ac_fengcai</item>
+        <item>configdevice_ac_zhen_jing_shuang</item>
+        <item>configdevice_ac_yujin_w4</item>
+        <item>configdevice_ac_yunku</item>
+        <item>configdevice_kfr_35gw_35588_fnhaa_a1</item>
+        <item>choosetype_kfr_35g_fnh_white</item>
+        <item>configdevice_icon_ac_72lw72582fnhcb</item>
+        <item>configdevice_ac_shiguanghui_guiji</item>
+        <item>configdevice_ac_jingtian</item>
+        <item>configdevice_ac_third_rose</item>
+        <item>configdevice_ac_zhenjingshuangyin</item>
+        <item>configdevice_ac_jingxiang</item>
+        <item>configdevice_ac_yunyi</item>
+        <item>configdevice_ac_shiguanghui_guiji</item>
+        <item>configdevice_ac_liangzhiyun3_guaji</item>
+        <item>configdevice_ac_shiguanghui_guaji</item>
+        <item>configdevice_icon_b_ac</item>
+        <item>configdevice_icon_ac_lengjingzun</item>
+        <item>configdevice_ac_wangzhe</item>
+        <item>configdevice_ac_moon_goddess_guaji</item>
+    </array>
+    <array name="accompany_config">
+        <item>1</item>
+        <item>1</item>
+    </array>
+    <array name="accompany_icon">
+        <item>configdevice_accompany_choosedevice</item>
+        <item>configdevice_accompany_choosedevice_is_t3bbw03</item>
+    </array>
+    <array name="accompany_mid">
+        <item>80221</item>
+        <item>80222</item>
+    </array>
+    <array name="accompany_type">
+        <item>空调伴侣IS-3BBW01</item>
+        <item>空调伴侣IS-T3BBW03</item>
+    </array>
+    <array name="acousto_optic_cfg_reset_tip">
+        <item>使用复位针长按复位孔直至绿灯熄灭后松开，再长按2秒，绿灯快闪，表示重置成功。</item>
+    </array>
+    <array name="acousto_optic_sensor_icon">
+        <item>choosetype_tuya_acousto_optic_sensor_icon</item>
+    </array>
+    <array name="acousto_optic_sensor_mid">
+        <item>70305</item>
+    </array>
+    <array name="acousto_optic_sensor_reset_tip">
+        <item>(涂鸦-声光报警器HS2DW)</item>
+    </array>
+    <array name="acousto_optic_sensor_type">
+        <item>涂鸦-声光报警器HS2DW</item>
+    </array>
+    <array name="ai_sensor_blecfg_tip">
+        <item>(AI感知器 RAB-01a)</item>
+    </array>
+    <array name="ai_sensor_config_type">
+        <item>4</item>
+    </array>
+    <array name="ai_sensor_icon">
+        <item>choosetype_aisensor_rab_01a</item>
+    </array>
+    <array name="ai_sensor_mid">
+        <item>80260</item>
+    </array>
+    <array name="ai_sensor_type">
+        <item>AI感知器 RAB-01a</item>
+    </array>
+    <array name="airbox_config_type">
+        <item>1</item>
+        <item>1</item>
+    </array>
+    <array name="airbox_mid">
+        <item>80241</item>
+        <item>80242</item>
+    </array>
+    <array name="airbox_type">
+        <item>格力环境感知器 TC80-00/C</item>
+        <item>格力环境感知器 TC80-00/C1</item>
+    </array>
+    <array name="airbox_type_icon">
+        <item>airbox_tc8000c</item>
+        <item>airbox_tc8000c1</item>
+    </array>
+    <array name="ap_tv_mid">
+        <item>10f03</item>
+    </array>
+    <array name="ap_zt_mid">
+        <item>830000</item>
+    </array>
+    <array name="arefactionCleanerUtil_config_type">
+        <item>2</item>
+        <item>1</item>
+    </array>
+    <array name="arefactionCleanerUtil_mid">
+        <item>828140</item>
+        <item>828140</item>
+    </array>
+    <array name="arefactionCleanerUtil_name">
+        <item>空气除湿净化一体机 KJ200G-B01</item>
+        <item>空气除湿净化一体机 KJ200G-C01</item>
+    </array>
+    <array name="arefactionCleanerUtil_type_icon">
+        <item>configdevice_icon_cleaner_kj200gb01</item>
+        <item>configdevice_icon_cleaner_kj200gc01</item>
+    </array>
+    <array name="arrays_device_simplfy_name">
+        <item>AC</item>
+        <item>AC</item>
+        <item>AC</item>
+        <item>ACUnit</item>
+        <item>ACUnit</item>
+        <item>AC</item>
+        <item>ACUnit</item>
+        <item>AC</item>
+        <item>WallHob</item>
+        <item>Fan</item>
+        <item>Lock</item>
+        <item>Air</item>
+        <item>Air</item>
+        <item>Humid</item>
+        <item>Dehumid</item>
+        <item>RCooker</item>
+        <item>Hood</item>
+        <item>CLEANSEL</item>
+        <item>Fridge</item>
+        <item>AC</item>
+        <item>Washer</item>
+        <item>Purifier</item>
+        <item>Purifier</item>
+        <item>Heater</item>
+        <item>Thermo</item>
+        <item>Heater</item>
+        <item>DWasher</item>
+        <item>Roast</item>
+        <item>ACUnit</item>
+        <item>BTGway</item>
+        <item>AC</item>
+        <item>AC</item>
+        <item>AC</item>
+        <item>AC</item>
+        <item>AC</item>
+        <item>AC</item>
+        <item>AC</item>
+        <item>AC</item>
+        <item>AC</item>
+        <item>AC</item>
+        <item>Cube</item>
+        <item>ACCntlr</item>
+        <item>Mattress</item>
+        <item>AQM</item>
+        <item>AC</item>
+        <item>AC</item>
+        <item>AC</item>
+        <item>AC</item>
+        <item>AC</item>
+        <item>AC</item>
+        <item>AC</item>
+        <item>AC</item>
+        <item>AC</item>
+        <item>AC</item>
+        <item>AC</item>
+        <item>AC</item>
+        <item>BedFrame</item>
+    </array>
+    <array name="bedFrame_config">
+        <item>1</item>
+    </array>
+    <array name="bedFrame_icon">
+        <item>configdevice_bedframe_bfd1_027a</item>
+    </array>
+    <array name="bedFrame_mid">
+        <item>70401</item>
+    </array>
+    <array name="bedFrame_type">
+        <item>电动床架BFD1-027A</item>
+    </array>
+    <array name="ble_device_mid">
+        <item>70101</item>
+        <item>70102</item>
+        <item>70103</item>
+        <item>70104</item>
+        <item>70105</item>
+        <item>80201</item>
+        <item>80202</item>
+        <item>81000</item>
+    </array>
+    <array name="ble_devices">
+        <item>智能门锁</item>
+        <item>智控魔方</item>
+    </array>
+    <array name="ble_devices_icon">
+        <item>configdevice_admin_newcfg_bluetooth_door_lock</item>
+        <item>gr_ble_cube</item>
+    </array>
+    <array name="blecube_config_type">
+        <item>2</item>
+    </array>
+    <array name="blecube_type">
+        <item>格力魔方精灵LYMF-01</item>
+        <item>格力场景魔方COB-01</item>
+    </array>
+    <array name="blecube_type_icon">
+        <item>configdevice_type_ble_cube</item>
+        <item>configdevice_type_ble_cube</item>
+    </array>
+    <array name="blecube_type_mid">
+        <item>80201</item>
+        <item>80202</item>
+        <item>80204</item>
+    </array>
+    <array name="boilder_gas_Type">
+        <item>大松燃气壁挂炉 L1PB26-G24/A2、L1PB30-G28/A2</item>
+        <item>格力燃气壁挂炉 LL1GBQ24-G/24C1</item>
+        <item>格力燃气壁挂炉 L1PB20-G18/A2</item>
+        <item>格力燃气壁挂炉 L1PB20-G18/A3、L1PB26-G24/A3</item>
+        <item>格力燃气壁挂炉 L1PB28-G26/A3、L1PB30-G28/A3</item>
+        <item>格力燃气壁挂炉 LL1GBQ20-G20/C1</item>
+        <item>格力燃气壁挂炉 LL1GBQ32-G32/C1</item>
+        <item>格力燃气壁挂炉 LL1GBQ35-G35/C1</item>
+    </array>
+    <array name="boilder_gas_config">
+        <item>0</item>
+        <item>1</item>
+        <item>1</item>
+        <item>1</item>
+        <item>1</item>
+        <item>1</item>
+        <item>1</item>
+        <item>1</item>
+    </array>
+    <array name="boilder_gas_icon">
+        <item>boilder_g24_a2</item>
+        <item>boilder_z61</item>
+        <item>boilder_g24_a2</item>
+        <item>boilder_g24_a2</item>
+        <item>boilder_g24_a2</item>
+        <item>boilder_z61</item>
+        <item>boilder_z61</item>
+        <item>boilder_z61</item>
+    </array>
+    <array name="boilder_gas_mid">
+        <item />
+        <item>828c00</item>
+        <item>828c02</item>
+        <item>828c02</item>
+        <item>828c02</item>
+        <item>828c00</item>
+        <item>828c00</item>
+        <item>828c00</item>
+    </array>
+    <array name="carbon_sensor_cfg_reset_tip">
+        <item>使用复位针长按复位孔直至绿灯熄灭后松开，\n再长按2秒，绿灯快闪，表示重置成功</item>
+        <item>使用复位针长按复位孔5秒，直至绿灯闪烁，表示重置成功。</item>
+    </array>
+    <array name="carbon_sensor_icon">
+        <item>choosetype_carbon_sensor_icon</item>
+        <item>choosetype_tuya_hs1ca_e_carbon_sensor_icon</item>
+    </array>
+    <array name="carbon_sensor_mid">
+        <item>7020B</item>
+        <item>70310</item>
+    </array>
+    <array name="carbon_sensor_reset_tip">
+        <item>(一氧化碳报警器SP20)</item>
+        <item>(一氧化碳报警器HS1CA-E)</item>
+    </array>
+    <array name="carbon_sensor_type">
+        <item>一氧化碳报警器SP20</item>
+        <item>一氧化碳报警器HS1CA-E</item>
+    </array>
+    <array name="change_multi_ac_mid">
+        <item>605d</item>
+        <item>608d</item>
+        <item>6079</item>
+        <item>6091</item>
+        <item>6099</item>
+        <item>6045</item>
+        <item>6046</item>
+        <item>60a0</item>
+        <item>60a1</item>
+    </array>
+    <array name="clean_config_type">
+        <item>0</item>
+        <item>1</item>
+        <item>0</item>
+        <item>0</item>
+        <item>0</item>
+        <item>0</item>
+        <item>0</item>
+        <item>1</item>
+        <item>1</item>
+        <item>1</item>
+    </array>
+    <array name="clean_mid">
+        <item>828100</item>
+        <item>828103</item>
+        <item>828103</item>
+        <item>828103</item>
+        <item>828102</item>
+        <item>828103</item>
+        <item>828102</item>
+        <item>828105</item>
+        <item>828105</item>
+        <item>828103</item>
+    </array>
+    <array name="clean_type">
+        <item>大松空气净化器 KJ280F-A01、KJ290F-B01</item>
+        <item>格力空气净化器 KJ350G-A01</item>
+        <item>格力空气净化器 KJ450G-A01</item>
+        <item>格力空气净化器 KJ500G-A01、KJ500G-A01Z</item>
+        <item>格力空气净化器 KJ650F-T01</item>
+        <item>格力空气净化器 KJ700G-A01</item>
+        <item>格力空气净化器 KJFT600A1</item>
+        <item>空气消毒净化器 KXJFA300-A01</item>
+        <item>空气消毒净化器 KXJFA300-A02</item>
+        <item>格力空气净化器 KJ500G-B01</item>
+    </array>
+    <array name="clean_type_icon">
+        <item>configdevice_icon_cleaner_kjff280a</item>
+        <item>configdevice_icon_cleaner_kj350g01</item>
+        <item>configdevice_icon_cleaner_kj450ga1</item>
+        <item>configdevice_icon_cleaner_kj500ga01</item>
+        <item>configdevice_icon_cleaner_kjf650a1</item>
+        <item>configdevice_icon_cleaner_kj700ga01</item>
+        <item>configdevice_icon_cleaner_kjf600a1</item>
+        <item>configdevice_icon_cleaner_kxjfa300a01</item>
+        <item>configdevice_icon_cleaner_kxjfa300b01</item>
+        <item>configdevice_icon_cleaner_kj500gb01</item>
+    </array>
+    <array name="cloud_card_device_status_text_mid">
+        <item>80401</item>
+        <item>7030A</item>
+        <item>70313</item>
+        <item>80801</item>
+        <item>80802</item>
+    </array>
+    <array name="combustible_gas_sensor_cfg_reset_tip">
+        <item>使用复位针长按复位孔至指示灯开始闪烁后\n松开，待指示灯常亮，再长按至指示灯快闪\n后松开，表示重置成功</item>
+        <item>使用复位针长按复位孔5秒，直至绿灯闪烁，表示重置成功。</item>
+    </array>
+    <array name="combustible_gas_sensor_icon">
+        <item>choosetype_combustible_gas_sensor</item>
+        <item>choosetype_tuya_hs1cg_combustible_gas_sensor_icon</item>
+    </array>
+    <array name="combustible_gas_sensor_mid">
+        <item>70209</item>
+        <item>70307</item>
+    </array>
+    <array name="combustible_gas_sensor_reset_tip">
+        <item>(可燃气体报警器SG20)</item>
+        <item>(可燃气体报警器HS1CG)</item>
+    </array>
+    <array name="combustible_gas_sensor_type">
+        <item>可燃气体报警器SG20</item>
+        <item>可燃气体报警器HS1CG</item>
+    </array>
+    <array name="cook_hood_cxw_200_ccs06">
+        <item>侧吸开合烟机 CXW-200-CCS06</item>
+    </array>
+    <array name="cook_hood_cxw_200_ccs07">
+        <item>侧吸开合烟机 CXW-200-CCS07</item>
+    </array>
+    <array name="cook_hood_cxw_200_ccs11">
+        <item>侧吸开合烟机 CXW-200-CCS11</item>
+    </array>
+    <array name="cook_hood_cxw_200_ccs12">
+        <item>手势油烟机 CXW-200-CCS12</item>
+    </array>
+    <array name="cook_hood_cxw_200_tcs05">
+        <item>塔式油烟机 CXW-200-TCS05</item>
+    </array>
+    <array name="cook_hood_icon">
+        <item>choosetype_ccs06</item>
+        <item>choosetype_ccs07</item>
+        <item>configdevice_cookhood_ccs11_choosetype</item>
+        <item>choosetype_tcs05</item>
+        <item>choosetype_ccs12</item>
+    </array>
+    <array name="cook_hood_mid">
+        <item>828600</item>
+        <item>828600</item>
+        <item>828601</item>
+        <item>828600</item>
+        <item>828600</item>
+    </array>
+    <array name="cook_hood_type">
+        <item>侧吸开合烟机 CXW-200-CCS06</item>
+        <item>侧吸开合烟机 CXW-200-CCS07</item>
+        <item>侧吸开合烟机 CXW-200-CCS11</item>
+        <item>塔式油烟机 CXW-200-TCS05</item>
+        <item>手势油烟机 CXW-200-CCS12</item>
+    </array>
+    <array name="coon_hood_config">
+        <item>1</item>
+        <item>1</item>
+        <item>1</item>
+        <item>1</item>
+        <item>1</item>
+    </array>
+    <array name="cube_Type">
+        <item>场景魔方COB-01</item>
+        <item>场景魔方COB-01a</item>
+    </array>
+    <array name="cube_deviceType">
+        <item>1</item>
+        <item>2</item>
+    </array>
+    <array name="cube_icon">
+        <item>configdevice_type_ble_cube</item>
+        <item>configdevice_type_mesh_cube</item>
+    </array>
+    <array name="cube_mid">
+        <item>80202</item>
+        <item>80204</item>
+    </array>
+    <array name="custom_weekdays">
+        <item>S</item>
+        <item>M</item>
+        <item>T</item>
+        <item>W</item>
+        <item>T</item>
+        <item>F</item>
+        <item>S</item>
+    </array>
+    <array name="defalut_switch_Type">
+        <item>智能开关 SWL-G01/G02</item>
+        <item>智能开关 SWL-P01/P02</item>
+        <item>情景开关SWL-G05(4)</item>
+        <item>情景开关SWS-01(4)</item>
+    </array>
+    <array name="defalut_switch_deviceType">
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+    </array>
+    <array name="defalut_switch_icon">
+        <item>configdevice_select_type_class_switch</item>
+        <item>configdevice_select_type_plastic_cement_switch</item>
+        <item>configdevice_select_type_class_scene_switch</item>
+        <item>configdevice_select_type_class_scene_switch_with_low_pow</item>
+    </array>
+    <array name="defalut_switch_mid">
+        <item>80401</item>
+        <item>80401</item>
+        <item>80601</item>
+        <item>80601</item>
+    </array>
+    <array name="dehumid_mid">
+        <item>13801</item>
+        <item>13801</item>
+        <item>13803</item>
+        <item>13803</item>
+        <item>13803</item>
+    </array>
+    <array name="dehumidifier_config_type">
+        <item>0</item>
+        <item>0</item>
+        <item>1</item>
+        <item>1</item>
+        <item>1</item>
+    </array>
+    <array name="dehumidifier_type_icon">
+        <item>configdevice_dehumidifier_dh20ef_icon</item>
+        <item>configdevice_dehumidifier_dh20ek_icon</item>
+        <item>configdevice_icon_dehumidifier_dh12enbag</item>
+        <item>configdevice_dehumidifier_dh12eoa1a_icon</item>
+        <item>configdevice_dehumidifier_dh12eoa1a_icon</item>
+    </array>
+    <array name="dehumidifier_type_name">
+        <item>除湿机DH20EF</item>
+        <item>除湿机DH20EK</item>
+        <item>除湿机DH12EN(WIFI)</item>
+        <item>除湿机DH12EO(WIFI)/DH20EO(WIFI)</item>
+        <item>除湿机DH12EOA1A(WIFI)/DH20EOA1A(WIFI)</item>
+    </array>
+    <array name="delay_time_devices">
+        <item>6079</item>
+        <item>6091</item>
+        <item>6099</item>
+        <item>605d</item>
+        <item>608d</item>
+        <item>3018</item>
+        <item>6000</item>
+        <item>6301</item>
+        <item>6045</item>
+        <item>6046</item>
+        <item>806004</item>
+        <item>6047</item>
+        <item>6048</item>
+        <item>6200</item>
+        <item>6400</item>
+        <item>60a0</item>
+        <item>60a1</item>
+        <item>60a4</item>
+    </array>
+    <array name="deviceName">
+        <item>GR_AddDevice_AC</item>
+        <item>GR_AddDevice_VoiceAC</item>
+        <item>GR_AddDevice_Gree_AC</item>
+        <item>GR_AddDevice_AirCleaner</item>
+        <item>GR_Cleanr_util</item>
+        <item>GR_AddDevice_HotWater</item>
+        <item>GR_AddDevice_CookerHood</item>
+        <item>GR_AddDevice_Dis</item>
+        <item>GR_AddDevice_Cooker</item>
+        <item>GR_AddDevice_Hum</item>
+        <item>GR_AddDevice_Deh</item>
+        <item>GR_AddDevice_WP</item>
+        <item>GR_AddDevice_Washer</item>
+        <item>GR_Fridge</item>
+        <item>GR_AddDevice_FA</item>
+        <item>GR_AddDevice_Gas_Boiler</item>
+        <item>GR_Fan</item>
+        <item>GR_AddDevice_hotcold</item>
+        <item>GR_AddDevice_Umatch</item>
+        <item>GR_AddDevice_LiangBa</item>
+        <item>GR_Heater</item>
+        <item>GR_Collection_Heating</item>
+        <item>GR_DWasher</item>
+        <item>GR_Intelligent_Switch</item>
+        <item>GR_Vein_Lock</item>
+        <item>GR_Mr_AR</item>
+        <item>GR_AddDevice_Mobile_AC</item>
+        <item>GR_AddDevice_NetDrink</item>
+        <item>GR_AI_Air_Conditioner</item>
+        <item>GR_AddDevice_EnvironmentSensor</item>
+        <item>GR_Infrared_Cube</item>
+        <item>GR_AddDevice_Smart_Thermo</item>
+        <item>GR_AddDevice_Electric_Heater</item>
+        <item>GR_Bluetooth_Gateway</item>
+        <item>Gate_Way</item>
+        <item>Smart_Switch</item>
+        <item>Curtain_Motor</item>
+        <item>GR_Gate_Magnetism</item>
+        <item>GR_Human_Body_Sensor</item>
+        <item>GR_Emergency_Button</item>
+        <item>GR_Combustible_Gas_Sensor</item>
+        <item>GR_Water_Immersion_Sensor</item>
+        <item>GR_Smoke_Sensor</item>
+        <item>GR_Temperature_Sensor</item>
+        <item>GR_Carbon_Sensor</item>
+        <item>GR_Rose_AC</item>
+        <item>GR_Cold_Fan</item>
+        <item>GR_Cube</item>
+        <item>GR_AddDevice_Mattress</item>
+        <item>GR_AddDevice_Adjustable_Bed_Frame</item>
+        <item>GR_Switch</item>
+        <item>GR_Plant_Tank</item>
+        <item>GR_AC_Company</item>
+        <item>GR_AddDevice_HS_ACUnit</item>
+        <item>GR_Steam_Bake</item>
+        <item>GR_Scene_Panel</item>
+        <item>GR_Curtain</item>
+        <item>GR_Steam_Bake</item>
+        <item>GR_AddDevice_Mattress</item>
+        <item>GR_AddDevice_Adjustable_Bed_Frame</item>
+        <item>GR_AddDevice_SY_WP</item>
+        <item>GR_AddDevice_AI_Sensor</item>
+        <item>GR_Smart_Socket</item>
+        <item>GR_Smart_Camera</item>
+        <item>GR_THSensor</item>
+        <item>GR_WtrAlarm</item>
+        <item>GR_SOS</item>
+        <item>GR_Cooler</item>
+        <item>GR_Softener</item>
+        <item>GR_GWHeater</item>
+        <item>GR_FAUnit_Condition</item>
+        <item>GR_Lock</item>
+        <item>GR_Tracker</item>
+        <item>GR_Linkpad</item>
+        <item>GR_Gcloud</item>
+    </array>
+    <array name="device_feedback_AppUsageProblem">
+        <item>家庭管理</item>
+        <item>设备控制</item>
+        <item>房间</item>
+        <item>场景</item>
+        <item>语音</item>
+        <item>账户</item>
+    </array>
+    <array name="device_feedback_DeviceAddFailure">
+        <item>1.请按照添加设备步骤正确操作</item>
+        <item>2.请确保输入的密码正确</item>
+        <item>3.请选择2.4GHZ频段的WiFi(设备不支持5GHZ频段的WiFi)</item>
+        <item>4.设备安装位置与路由器位置较远时可能会导致设备添加失败</item>
+        <item>5.路由器是否设置了防蹭网(黑白名单、MAC过滤、AP隔离等),若有设置需要取消设置</item>
+        <item>6.WiFi名称和密码建议是英文字母+数字格式,名称和密码都不要包含特殊符号和汉字</item>
+        <item>7.请尝试将无线路由器设置为11bg或者20Mhz频宽后进行配网;配网成功后,把路由器重新设置到原来的配置</item>
+        <item>8.请查看路由设置中设置的连接数量上限,若路由器接入设备已达连接数量上限,请更改连接数量上限后再进行配网</item>
+        <item>9.请尝试连接其他无线路由器重新配网</item>
+    </array>
+    <array name="device_feedback_DeviceOffine">
+        <item>1.请检查设备供电是否正常,您可以尝试检查设备WiFi指示灯</item>
+        <item>2.尝试将设备断电5秒钟后,重新上电</item>
+        <item>3.请检查设备连接的路由器是否可以正常上网</item>
+        <item>4.是否修改了连接WiFi的名称或密码,若有修改需重新添加设备</item>
+        <item>5.路由器连接的设备过多可能会导致不稳定</item>
+        <item>6.是否使用不带WiFi的遥控器控制过此设备,若有使用建议重新添加设备(空调)</item>
+        <item>7.安装位置与路由器位置较远时可能会导致设备离线</item>
+        <item>8.路由器是否设置了防蹭网(黑白名单、MAC过滤等),若有设置需要取消设置</item>
+        <item>9.设备是否已被其他人重置</item>
+        <item>10.如果排查以上问题后设备仍然未能恢复,您可以尝试重置设备</item>
+    </array>
+    <array name="device_feedback_error">
+        <item>显示板显示故障代码</item>
+        <item>制冷问题</item>
+        <item>制热问题</item>
+        <item>漏水问题</item>
+        <item>异响问题</item>
+        <item>噪音问题</item>
+        <item>其他故障</item>
+    </array>
+    <array name="device_feedback_timing_problems">
+        <item>1.App设置定时后,使用遥控器操作相同的设备,会关闭App设定的定时(空调)</item>
+        <item>2.此设备是否被分享的家人或朋友取消已设置的定时(空调)</item>
+    </array>
+    <array name="device_link_alert_mid">
+        <item>80704</item>
+        <item>80261</item>
+        <item>80702</item>
+    </array>
+    <array name="device_link_available_mids">
+        <item>70102</item>
+        <item>70103</item>
+        <item>80701</item>
+        <item>80702</item>
+        <item>80704</item>
+        <item>70105</item>
+        <item>70103</item>
+        <item>80261</item>
+        <item>81000</item>
+        <item>828f00</item>
+    </array>
+    <array name="device_link_no_pow_mids">
+        <item>830000</item>
+    </array>
+    <array name="device_name_repeat_switch">
+        <item>80401</item>
+        <item>80403</item>
+        <item>60</item>
+        <item>6000</item>
+        <item>6045</item>
+        <item>6046</item>
+        <item>6079</item>
+        <item>6099</item>
+        <item>6091</item>
+        <item>605d</item>
+        <item>608d</item>
+        <item>6301</item>
+        <item>6200</item>
+        <item>6400</item>
+        <item>60a1</item>
+        <item>60a0</item>
+        <item>60a4</item>
+    </array>
+    <array name="device_off_line_distance">
+        <item>小于1m</item>
+        <item>1-10m</item>
+        <item>大于10m</item>
+    </array>
+    <array name="device_off_line_operators">
+        <item>联通</item>
+        <item>电信</item>
+        <item>移动</item>
+        <item>其他</item>
+    </array>
+    <array name="device_off_line_wall">
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>3以上</item>
+    </array>
+    <array name="device_type_select">
+        <item>空调</item>
+        <item>AI语音空调</item>
+        <item>移动机</item>
+        <item>多联机</item>
+        <item>中央空调</item>
+        <item>新风净化机</item>
+        <item>暖冷一体机</item>
+        <item>房车空调</item>
+        <item>壁挂炉</item>
+        <item>风扇</item>
+        <item>智能门锁</item>
+        <item>空气净化器</item>
+        <item>空气除湿净化一体机</item>
+        <item>加湿器</item>
+        <item>除湿机</item>
+        <item>电饭煲</item>
+        <item>油烟机</item>
+        <item>消毒柜</item>
+        <item>冰箱</item>
+        <item>晾衣机</item>
+        <item>洗衣机</item>
+        <item>净水机</item>
+        <item>净饮机</item>
+        <item>空气能热水器</item>
+        <item>智能温控器</item>
+        <item>电暖器</item>
+        <item>洗碗机</item>
+        <item>蒸烤双能机</item>
+        <item>户式机</item>
+        <item>网关</item>
+        <item>智能开关</item>
+        <item>窗帘电机</item>
+        <item>智能门窗磁</item>
+        <item>人体红外传感器</item>
+        <item>紧急按钮</item>
+        <item>可燃气体报警器</item>
+        <item>水浸报警器</item>
+        <item>一氧化碳报警器</item>
+        <item>烟雾报警器</item>
+        <item>温湿度传感器</item>
+        <item>魔方</item>
+        <item>空调伴侣</item>
+        <item>床垫</item>
+    </array>
+    <array name="dis_config_type">
+        <item>1</item>
+    </array>
+    <array name="dis_mid">
+        <item>828700</item>
+    </array>
+    <array name="dis_type">
+        <item>消毒柜XZTD105A-03</item>
+    </array>
+    <array name="dis_type_icon">
+        <item>choosetype_dis_xztd105a_03</item>
+    </array>
+    <array name="discovery_tab_title">
+        <item>精选</item>
+        <item>小窍门</item>
+        <item>AR</item>
+    </array>
+    <array name="dishwasher_config_type">
+        <item>2</item>
+        <item>1</item>
+        <item>1</item>
+        <item>1</item>
+    </array>
+    <array name="dishwasher_mid">
+        <item>828901</item>
+        <item>828b00</item>
+        <item>828b00</item>
+        <item>828b00</item>
+    </array>
+    <array name="dishwasher_type">
+        <item>洗碗机 WQP4-03R</item>
+        <item>洗碗机 WQP12-301UCDSG</item>
+        <item>洗碗机 WQP12-301SiCDSG</item>
+        <item>洗碗机 WQP12-301FCDSG</item>
+    </array>
+    <array name="dishwasher_type_icon">
+        <item>configdevice_ico_dishwasher_wqp4_03r</item>
+        <item>configdevice_ico_dishwasher_301ucdsg</item>
+        <item>configdevice_ico_dishwasher_301sicdsg</item>
+        <item>configdevice_ico_dishwasher_301fcdsg</item>
+    </array>
+    <array name="edit_feedback_help">
+        <item>设备离线问题</item>
+        <item>App使用问题</item>
+        <item>定时问题</item>
+        <item>设备故障</item>
+        <item>闪退问题</item>
+        <item>网络问题</item>
+    </array>
+    <array name="electric_heater_config">
+        <item>1</item>
+        <item>1</item>
+        <item>1</item>
+        <item>2</item>
+        <item>1</item>
+        <item>1</item>
+        <item>1</item>
+    </array>
+    <array name="electric_heater_icon">
+        <item>configdevice_electric_heater_x6021b</item>
+        <item>configdevice_electric_heater_22b</item>
+        <item>configdevice_electric_heater_x6022b</item>
+        <item>configdevice_electric_heater_t6022b</item>
+        <item>configdevice_electric_heater_x6025b</item>
+        <item>configdevice_electric_heater_25b</item>
+        <item>configdevice_electric_heater_21b</item>
+    </array>
+    <array name="electric_heater_mid">
+        <item>828a00</item>
+        <item>828a01</item>
+        <item>828a03</item>
+        <item>828a01</item>
+        <item>828a02</item>
+        <item>828a02</item>
+        <item>828a01</item>
+    </array>
+    <array name="electric_heater_newcfg_tip">
+        <item>(电暖器 NTFG-X6021B)</item>
+        <item>(电暖器 NDJA-22B、NDJA-X6022B)</item>
+        <item>(电暖器 NBDF-X6022B)</item>
+        <item>(电暖器 NDJA-T6022B)</item>
+        <item>(电暖器 NDYQ-X6025B)</item>
+        <item>(电暖器 NDYQ-25B)</item>
+        <item>(电暖器 NDJB-21B)</item>
+    </array>
+    <array name="electric_heater_scancode">
+        <item>NTFG-X6021B</item>
+        <item>NDJA-22B、NDJA-X6022B</item>
+        <item>NBDF-X6022B</item>
+        <item>NDJA-T6022B</item>
+        <item>NDYQ-X6025B</item>
+        <item>NDYQ-25B</item>
+        <item>NDJB-21B</item>
+    </array>
+    <array name="electric_heater_type">
+        <item>电暖器 NTFG-X6021B</item>
+        <item>电暖器 NDJA-22B、NDJA-X6022B</item>
+        <item>电暖器 NBDF-X6022B</item>
+        <item>电暖器 NDJA-T6022B</item>
+        <item>电暖器 NDYQ-X6025B</item>
+        <item>电暖器 NDYQ-25B</item>
+        <item>电暖器 NDJB-21B</item>
+    </array>
+    <array name="emergency_button_cfg_device_type_tip">
+        <item>(SOS紧急按钮SE20)</item>
+        <item>(紧急按钮HS1EB-E)</item>
+    </array>
+    <array name="emergency_button_cfg_reset_tip">
+        <item>使用复位针长按复位孔直至绿灯熄灭后松开，\n再长按2秒，绿灯快闪，表示重置成功</item>
+        <item>使用复位针长按复位孔5秒，直至绿灯闪烁，表示重置成功。</item>
+    </array>
+    <array name="emergency_button_icon">
+        <item>choosetype_gree_emergency_button_icon</item>
+        <item>choosetype_ouribo_emergency_button_icon</item>
+        <item>choosetype_tuya_hs1eb_y_emergency_button_icon</item>
+    </array>
+    <array name="emergency_button_mid">
+        <item>80704</item>
+        <item>70208</item>
+        <item>7030C</item>
+    </array>
+    <array name="emergency_button_type">
+        <item>SENE03c</item>
+        <item>SOS紧急按钮SE20</item>
+        <item>紧急按钮HS1EB-E</item>
+    </array>
+    <array name="fan_config_type">
+        <item>0</item>
+        <item>1</item>
+        <item>0</item>
+        <item>1</item>
+        <item>1</item>
+        <item>2</item>
+        <item>1</item>
+        <item>1</item>
+    </array>
+    <array name="fan_mid">
+        <item>828203</item>
+        <item>828205</item>
+        <item>828202</item>
+        <item>828204</item>
+        <item>828211</item>
+        <item>828209</item>
+        <item>828209</item>
+        <item>828208</item>
+    </array>
+    <array name="fan_type">
+        <item>冷风扇 KS-0705D</item>
+        <item>冷风扇 KS-1501RD、KS-15X60RD</item>
+        <item>塔扇 FLZ-0903Bag</item>
+        <item>循环扇 FSZ-30X63Bg7、FSZ-3013Bg7</item>
+        <item>塔扇 FLZ-09X67Bg</item>
+        <item>循环扇 FSZ-20X60Bag3</item>
+        <item>循环扇 FSZ-20X60Bg3、FSZ-2001Bg3</item>
+        <item>无叶扇 FWZ-1201Bg</item>
+    </array>
+    <array name="fan_type_icon">
+        <item>configdevice_icon_fan_0705d</item>
+        <item>configdevice_icon_temperature_fan</item>
+        <item>configdevice_icon_fan_0903bag</item>
+        <item>configdevice_icon_fan_3013bg7</item>
+        <item>configdevice_icon_fan_09x67bg</item>
+        <item>configdevice_icon_fan_20x60bg3</item>
+        <item>configdevice_icon_fan_20x60bg3</item>
+        <item>configdevice_icon_fan_1201bg</item>
+    </array>
+    <array name="feedback_help">
+        <item>设备添加失败</item>
+        <item>设备离线问题</item>
+        <item>App使用问题</item>
+        <item>定时问题</item>
+        <item>设备故障</item>
+        <item>闪退问题</item>
+        <item>网络问题</item>
+    </array>
+    <array name="feedback_hide_mids">
+        <item>80000</item>
+        <item>80001</item>
+        <item>60</item>
+        <item>910003</item>
+    </array>
+    <array name="feedback_network_problem">
+        <item>家庭管理</item>
+        <item>设备控制</item>
+        <item>房间</item>
+        <item>场景</item>
+        <item>语音</item>
+        <item>商城</item>
+        <item>其他</item>
+    </array>
+    <array name="feedback_record_logtype">
+        <item>用户上传</item>
+        <item>App自动上报</item>
+        <item>设备添加失败</item>
+        <item>固件升级失败</item>
+        <item>设备离线问题</item>
+        <item>设备故障</item>
+        <item>定时问题</item>
+        <item>场景问题</item>
+        <item>语音问题</item>
+        <item>您的新需求</item>
+        <item>功能意见</item>
+        <item>其他反馈</item>
+        <item>设备使用问题</item>
+        <item>App使用问题</item>
+        <item>闪退问题</item>
+        <item>网络问题</item>
+    </array>
+    <array name="fridge_mid">
+        <item>28C90</item>
+        <item>28XXX</item>
+    </array>
+    <array name="fridge_type_icon">
+        <item>configdevice_icon_fridge_28c90</item>
+        <item>configdevice_icon_fridge_28c91</item>
+    </array>
+    <array name="fridge_type_name">
+        <item>晶弘冰箱BCD-521 WIPQG</item>
+        <item>晶弘冰箱</item>
+    </array>
+    <array name="gas_hot_water_config">
+        <item>1</item>
+    </array>
+    <array name="gas_hot_water_icon">
+        <item>configdevice_gas_hot_water_choose_type</item>
+    </array>
+    <array name="gas_hot_water_mid">
+        <item>828c01</item>
+        <item>828c02</item>
+    </array>
+    <array name="gas_hot_water_type">
+        <item>燃气快速热水器 JSQ25-13B1</item>
+    </array>
+    <array name="gate_magnetism_cfg_device_type_tip">
+        <item>(智能门窗磁CT10)</item>
+        <item>(智能门窗磁TM081)</item>
+    </array>
+    <array name="gate_magnetism_cfg_reset_tip">
+        <item>长按按钮直至绿灯熄灭后松开，再按一下，\n绿灯慢闪表示重置成功</item>
+        <item>使用复位针长按复位孔5秒，直至蓝灯闪烁，表示重置成功。</item>
+    </array>
+    <array name="gate_magnetism_icon">
+        <item>choosetype_ouribo_gate_magnetism_type</item>
+        <item>choosetype_tuya_tm081_gate_magnetism_type</item>
+    </array>
+    <array name="gate_magnetism_mid">
+        <item>70206</item>
+        <item>70308</item>
+    </array>
+    <array name="gate_magnetism_type">
+        <item>智能门窗磁CT10</item>
+        <item>智能门窗磁TM081</item>
+    </array>
+    <array name="gate_way_Type">
+        <item>Mini网关</item>
+        <item>智能网关 IG-WCCWB01</item>
+        <item>网关TYGWZ-01</item>
+    </array>
+    <array name="gate_way_config">
+        <item>1</item>
+        <item>1</item>
+        <item>1</item>
+    </array>
+    <array name="gate_way_icon">
+        <item>choosetype_ouruibo_gateway</item>
+        <item>choosetype_bluetooth_gateway</item>
+        <item>choosetype_tuya_gateway</item>
+    </array>
+    <array name="gate_way_mid">
+        <item>70201</item>
+        <item>80300</item>
+        <item>70301</item>
+    </array>
+    <array name="gcloud_mids">
+        <item>6079</item>
+        <item>6301</item>
+        <item>6045</item>
+        <item>6046</item>
+        <item>80401</item>
+        <item>80222</item>
+        <item>80501</item>
+        <item>10014</item>
+        <item>10015</item>
+        <item>10003</item>
+        <item>80801</item>
+        <item>3020</item>
+        <item>80802</item>
+        <item>10f03</item>
+        <item>6200</item>
+        <item>60a0</item>
+        <item>60a1</item>
+        <item>60a4</item>
+    </array>
+    <array name="haze_cleaner_config">
+        <item>0</item>
+        <item>0</item>
+        <item>0</item>
+    </array>
+    <array name="haze_cleaner_icon">
+        <item>configdevice_icon_haze_cleaner_xk106</item>
+        <item>configdevice_icon_haze_cleaner_yunxiang</item>
+        <item>configdevice_icon_haze_cleaner_chunxiang</item>
+    </array>
+    <array name="haze_cleaner_mid">
+        <item>6079</item>
+        <item>6079</item>
+        <item>6079</item>
+    </array>
+    <array name="haze_cleaner_type">
+        <item>线控器XK106</item>
+        <item>韵享</item>
+        <item>淳享</item>
+    </array>
+    <array name="heater_mid">
+        <item />
+        <item />
+        <item>910001</item>
+    </array>
+    <array name="hide_scenes_mids">
+        <item>80001</item>
+        <item>28A80</item>
+        <item>28A00</item>
+        <item>828302</item>
+        <item>828303</item>
+        <item>70001</item>
+        <item>828301</item>
+        <item>80201</item>
+        <item>828402</item>
+        <item>828403</item>
+        <item>828404</item>
+        <item>828405</item>
+        <item>828b00</item>
+        <item>28C90</item>
+        <item>28c91</item>
+        <item>28c93</item>
+        <item>28c92</item>
+        <item>80300</item>
+        <item>70101</item>
+        <item>70102</item>
+        <item>70103</item>
+        <item>70104</item>
+        <item>70105</item>
+        <item>828901</item>
+        <item>80601</item>
+        <item>70206</item>
+        <item>70207</item>
+        <item>70208</item>
+        <item>70209</item>
+        <item>7020A</item>
+        <item>7020B</item>
+        <item>7020E</item>
+        <item>7020F</item>
+        <item>702011</item>
+        <item>60</item>
+        <item>9100</item>
+        <item>80000</item>
+        <item>70402</item>
+        <item>828304</item>
+        <item>702011</item>
+        <item>828d04</item>
+        <item>6046</item>
+        <item>828305</item>
+        <item>28a01</item>
+        <item>28a02</item>
+        <item>28a03</item>
+        <item>28a04</item>
+        <item>28a05</item>
+        <item />
+        <item>70301</item>
+        <item>7030C</item>
+        <item>70306</item>
+        <item>7030D</item>
+        <item>70303</item>
+        <item>70307</item>
+        <item>70308</item>
+        <item>70302</item>
+        <item>70305</item>
+        <item>70310</item>
+        <item>70311</item>
+        <item>70312</item>
+        <item>80241</item>
+        <item>80242</item>
+        <item>80701</item>
+        <item>80704</item>
+        <item>828902</item>
+        <item>829000</item>
+        <item>80702</item>
+        <item>80204</item>
+        <item>80261</item>
+        <item>80803</item>
+    </array>
+    <array name="hide_sub_dev_list">
+        <item>80401</item>
+        <item>80501</item>
+        <item>80300</item>
+        <item>80601</item>
+        <item>70102</item>
+        <item>70103</item>
+        <item>70105</item>
+        <item>80202</item>
+        <item>80201</item>
+        <item>80303</item>
+        <item>80404</item>
+        <item>80701</item>
+        <item>80702</item>
+        <item>80704</item>
+        <item>81000</item>
+        <item>81001</item>
+    </array>
+    <array name="hot_cold_config">
+        <item>1</item>
+        <item>1</item>
+        <item>1</item>
+    </array>
+    <array name="hot_cold_icon">
+        <item>configdevice_hotcold_choose_devic</item>
+        <item>configdevice_hotcold_choose_devic</item>
+        <item>configdevice_hotcold_choose_devic</item>
+    </array>
+    <array name="hot_cold_mid">
+        <item>809030</item>
+        <item>809030</item>
+        <item>809030</item>
+    </array>
+    <array name="hot_cold_type">
+        <item>暖冷一体机单机版 GN-HRZ32(38)DGSV/NaA</item>
+        <item>暖冷一体机并联版 GN-HRZ32(38)MDGSV/NaA</item>
+        <item>暖冷一体机模块化版 GN-HRZ32MDGSV/NhA</item>
+    </array>
+    <array name="hs_acunit_config">
+        <item>1</item>
+    </array>
+    <array name="hs_acunit_icon">
+        <item>configdevice_acunit</item>
+    </array>
+    <array name="hs_acunit_mid">
+        <item>806004</item>
+    </array>
+    <array name="hs_acunit_type">
+        <item>户式机线控器Z6650J</item>
+    </array>
+    <array name="human_body_sensor_cfg_device_type_tip">
+        <item>(人体红外传感器SN10ZW)</item>
+        <item>(人体红外传感器MD081)</item>
+    </array>
+    <array name="human_body_sensor_cfg_reset_tip">
+        <item>长按按钮直至绿灯熄灭后松开，再按一下，\n绿灯慢闪表示重置成功</item>
+        <item>使用复位针长按复位孔5秒，直至蓝灯闪烁，表示重置成功。</item>
+    </array>
+    <array name="human_body_sensor_icon">
+        <item>choosetype_ouribo_human_body_sensor_type</item>
+        <item>choosetype_tuya_md081_human_body_sensor_type</item>
+    </array>
+    <array name="human_body_sensor_mid">
+        <item>70207</item>
+        <item>70302</item>
+    </array>
+    <array name="human_body_sensor_type">
+        <item>人体红外传感器SN10ZW</item>
+        <item>人体红外传感器MD081</item>
+    </array>
+    <array name="humidifier_config">
+        <item>0</item>
+        <item>2</item>
+        <item>1</item>
+    </array>
+    <array name="humidifier_icon">
+        <item>configdevice_humidifier_sc_25x60a</item>
+        <item>configdevice_humidifier_sc_40x65a</item>
+        <item>configdevice_humidifier_sck_50x62</item>
+    </array>
+    <array name="humidifier_mid">
+        <item>828500</item>
+        <item>828502</item>
+        <item>828503</item>
+    </array>
+    <array name="humidifier_type">
+        <item>加湿器 SC-25X60A、SC-25X60AZ</item>
+        <item>加湿器 SC-40X65A</item>
+        <item>母婴加湿器 SCK-50X62</item>
+    </array>
+    <array name="iiar_config">
+        <item>0</item>
+        <item>0</item>
+    </array>
+    <array name="iiar_icon">
+        <item>configdevice_controller</item>
+        <item>configdevice_iiar</item>
+    </array>
+    <array name="iiar_mid">
+        <item />
+        <item />
+    </array>
+    <array name="iiar_type">
+        <item>遥控器</item>
+        <item>空调</item>
+    </array>
+    <array name="invent_mac_dev_mid_list">
+        <item>7030A</item>
+    </array>
+    <array name="like_multi_couple_devices">
+        <item>80300</item>
+        <item>80303</item>
+        <item>80901</item>
+    </array>
+    <array name="link_content">
+        <item>日出/日落</item>
+        <item>室外温度</item>
+        <item>湿度</item>
+        <item>天气</item>
+        <item>PM2.5</item>
+        <item>空气质量</item>
+    </array>
+    <array name="link_content_selcet_sunrise">
+        <item>日出</item>
+        <item>日落</item>
+    </array>
+    <array name="link_content_selcet_temperature">
+        <item>高于等于</item>
+        <item>低于</item>
+    </array>
+    <array name="link_content_selcet_weather">
+        <item>晴天</item>
+        <item>多云</item>
+        <item>阴天</item>
+        <item>刮风</item>
+        <item>下雨</item>
+        <item>下雪</item>
+        <item>起雾</item>
+        <item>沙尘</item>
+        <item>起霾</item>
+        <item>极端</item>
+    </array>
+    <array name="link_scene_tags">
+    </array>
+    <array name="link_selcet_air_quality">
+        <item>优</item>
+        <item>良</item>
+        <item>轻度污染</item>
+        <item>中度污染</item>
+        <item>重度污染</item>
+        <item>严重污染</item>
+    </array>
+    <array name="link_selcet_content">
+        <item>当满足任一条件时</item>
+        <item>当满足全部条件时</item>
+    </array>
+    <array name="linkpad_gateway_list">
+        <item>80401</item>
+        <item>80701</item>
+        <item>80601</item>
+        <item>80702</item>
+        <item>80704</item>
+        <item>80501</item>
+        <item>80204</item>
+    </array>
+    <array name="local_mids">
+        <item>70101</item>
+    </array>
+    <array name="lock_Type">
+        <item>指静脉智能门锁</item>
+        <item>指静脉智能门锁(网关款)</item>
+        <item>指纹智能门锁</item>
+        <item>全自动智能门锁</item>
+    </array>
+    <array name="lock_icon">
+        <item>choosetype_lock_70101</item>
+        <item>choosetype_lock_70102</item>
+        <item>choosetype_lock_70103</item>
+        <item>choosetype_lock_70105</item>
+    </array>
+    <array name="lock_local_record_type">
+        <item>卡片解锁</item>
+        <item>密码解锁</item>
+        <item>指静脉解锁</item>
+        <item>添加密码用户</item>
+        <item>添加指静脉用户</item>
+        <item>删除密码用户</item>
+        <item>删除指静脉用户</item>
+        <item>手机开锁</item>
+        <item>添加卡片用户</item>
+        <item>删除卡片用户</item>
+        <item>修改密码用户</item>
+        <item>修改指静脉用户</item>
+        <item>指纹开锁</item>
+        <item>添加指纹用户</item>
+        <item>删除指纹用户</item>
+        <item>修改指纹用户</item>
+        <item>临时密码开锁</item>
+        <item>添加临时密码用户</item>
+    </array>
+    <array name="lock_mid">
+        <item>70101</item>
+        <item>70102</item>
+        <item>70103</item>
+        <item>70105</item>
+        <item>70104</item>
+    </array>
+    <array name="mattress_config">
+        <item>1</item>
+    </array>
+    <array name="mattress_icon">
+        <item>configdevice_mattress_mzz1_017</item>
+    </array>
+    <array name="mattress_mid">
+        <item>70402</item>
+    </array>
+    <array name="mattress_type">
+        <item>T10软硬调节床MZZ1-017</item>
+    </array>
+    <array name="mesh_device_mid">
+        <item>80401</item>
+        <item>80501</item>
+        <item>80601</item>
+        <item>81001</item>
+        <item>80204</item>
+        <item>80802</item>
+        <item>80803</item>
+    </array>
+    <array name="mesh_device_mid_flag">
+        <item>80802</item>
+        <item>80803</item>
+        <item>81000</item>
+    </array>
+    <array name="mesh_devices">
+        <item>智能开关</item>
+        <item>窗帘</item>
+        <item>睡眠检测仪</item>
+    </array>
+    <array name="mesh_devices_icon">
+        <item>configdevice_admin_newcfg_bluetooth_smart_switch</item>
+        <item>configdevice_admin_newcfg_bluetooth_curtain</item>
+    </array>
+    <array name="mqtt_support_mid">
+        <item>11000</item>
+        <item>11002</item>
+    </array>
+    <array name="multi_ac_config_type">
+        <item>0</item>
+        <item>3</item>
+        <item>3</item>
+    </array>
+    <array name="multi_ac_icon">
+        <item>android_multi_ac_pic_select_controller</item>
+        <item>android_room_pic_select_modle_controller</item>
+        <item>android_pic_select_bath_modle_controller</item>
+    </array>
+    <array name="multi_ac_mid">
+        <item>6000</item>
+        <item>6045</item>
+        <item>6046</item>
+    </array>
+    <array name="multi_ac_type">
+        <item>多联机</item>
+        <item>舒享风管式室内机 线控器XK85</item>
+        <item>浴享风管式室内机 线控器XK81</item>
+    </array>
+    <array name="multi_couple_device">
+        <item>60</item>
+    </array>
+    <array name="netdrink_machine_config">
+        <item>0</item>
+        <item>1</item>
+    </array>
+    <array name="netdrink_machine_icon">
+        <item>configdevice_netdrinkmachine_rjy_l16_4x650a</item>
+        <item>configdevice_netdrinkmachine_rjy_l16_4505</item>
+    </array>
+    <array name="netdrink_machine_mid">
+        <item>828302</item>
+        <item>828304</item>
+    </array>
+    <array name="netdrink_machine_type">
+        <item>净饮机 RJY–L16–4X650A</item>
+        <item>净饮机 RJY–L16–4505</item>
+    </array>
+    <array name="no_need_intent_plugins">
+        <item>voiceupdate</item>
+        <item>smart_sleep</item>
+        <item>smart_cookbook</item>
+        <item>setting_help_docs</item>
+        <item>lucky_draw</item>
+    </array>
+    <array name="ota_dev_config">
+        <item>1</item>
+    </array>
+    <array name="ota_dev_icon">
+        <item>choosetype_lock_70104</item>
+    </array>
+    <array name="ota_dev_mid">
+        <item>70104</item>
+    </array>
+    <array name="ota_dev_type">
+        <item>密码智能门锁（NB-IOT）DZFDS-L-B-II/M01</item>
+    </array>
+    <array name="ouribo_cutain_motor_cfg_reset_tip">
+        <item>连续按对码键4次，第5次按键维持3秒以上，\n直到LED红蓝交替闪烁（清网状态），放开按\n键，观察到蓝灯间隔0.25秒闪烁10次（组网状\n态）</item>
+        <item>长按复位键5秒，直至红灯闪烁，表示重置成功。</item>
+    </array>
+    <array name="ouribo_cutain_motor_icon">
+        <item>choosetype_gree_cutain_motor</item>
+        <item>choosetype_ouribo_cutain_motor</item>
+        <item>choosetype_tuya_wscmj_cutain_motor</item>
+    </array>
+    <array name="ouribo_cutain_motor_mid">
+        <item>80501</item>
+        <item>70203</item>
+        <item>7030E</item>
+    </array>
+    <array name="ouribo_cutain_motor_tip">
+        <item>(窗帘电机CU-01)</item>
+        <item>(窗帘电机W40CZ)</item>
+        <item>(窗帘电机WSCMJ)</item>
+    </array>
+    <array name="ouribo_cutain_motor_type">
+        <item>CU-KCZ2B01</item>
+        <item>窗帘电机W40CZ</item>
+        <item>窗帘电机WSCMJ</item>
+    </array>
+    <array name="ouribo_gateway_icon">
+        <item>choosetype_ouruibo_gateway</item>
+    </array>
+    <array name="ouribo_gateway_mid">
+        <item>70201</item>
+    </array>
+    <array name="ouribo_gateway_type">
+        <item>Mini网关</item>
+    </array>
+    <array name="ovribo_device_type_icon_res">
+        <item>configdevice_icon_gate_way</item>
+        <item>configdevice_icon_emergency_button</item>
+        <item>configdevice_icon_temperature_sensor</item>
+        <item>configdevice_icon_temperature_sensor</item>
+        <item>configdevice_icon_smoke_sensor</item>
+        <item>configdevice_icon_water_immersion_sensor</item>
+        <item>configdevice_icon_combustible_gas_sensor</item>
+        <item>configdevice_icon_gate_magnetism</item>
+        <item>configdevice_icon_human_body_sensor</item>
+        <item>configdevice_icon_catalog_switchs_ouruibo_open</item>
+        <item>configdevice_icon_curtain_motor</item>
+        <item>configdevice_icon_carbon_sensor</item>
+    </array>
+    <array name="ovribo_device_type_name">
+        <item>hosts</item>
+        <item>danger_button</item>
+        <item>temperature_sensor</item>
+        <item>humidity_sensor</item>
+        <item>smoke_sensor</item>
+        <item>water_immersion_sensor</item>
+        <item>combustible_gas_sensor</item>
+        <item>door_sensor</item>
+        <item>human_body_sensor</item>
+        <item>switchs</item>
+        <item>curtain</item>
+        <item>carbon_monoxide_sensor</item>
+    </array>
+    <array name="plantsTank_config_type">
+        <item>1</item>
+    </array>
+    <array name="plantsTank_mid">
+        <item>828e00</item>
+    </array>
+    <array name="plantsTank_type">
+        <item>植物柜</item>
+    </array>
+    <array name="plantsTank_type_icon">
+        <item>configdevice_icon_cooker</item>
+    </array>
+    <array name="qqmusic_b_ac_skill_tab_list">
+        <item>生活</item>
+        <item>娱乐</item>
+        <item>教育</item>
+    </array>
+    <array name="qqmusic_pkg_end_icon_list">
+        <item>qqmusic_pkg_end_icon_1</item>
+        <item>qqmusic_pkg_end_icon_2</item>
+        <item>qqmusic_pkg_end_icon_3</item>
+        <item>qqmusic_pkg_end_icon_4</item>
+        <item>qqmusic_pkg_end_icon_5</item>
+        <item>qqmusic_pkg_end_icon_6</item>
+    </array>
+    <array name="qqmusic_pkg_end_icon_name_list">
+        <item>空调、QQ音乐app\n专享</item>
+        <item>空调、QQ音乐app\n专享</item>
+        <item>QQ音乐app专享</item>
+        <item>QQ音乐app专享</item>
+        <item>QQ音乐app专享</item>
+        <item>QQ音乐app专享</item>
+    </array>
+    <array name="qqmusic_pkg_end_svip_name_list">
+        <item>VIP内容</item>
+        <item>品质音乐</item>
+        <item>演出票务</item>
+        <item>个性主题</item>
+        <item>游戏礼包</item>
+        <item>生活福利</item>
+    </array>
+    <array name="qqmusic_skill_tab_list">
+        <item>设备</item>
+        <item>生活</item>
+        <item>娱乐</item>
+        <item>教育</item>
+        <item>儿童</item>
+    </array>
+    <array name="remote_local_mids">
+        <item>70102</item>
+    </array>
+    <array name="remote_mids">
+        <item>80401</item>
+        <item>80601</item>
+        <item>80701</item>
+        <item>80702</item>
+        <item>80704</item>
+        <item>70103</item>
+        <item>80501</item>
+        <item>80204</item>
+        <item>70105</item>
+        <item>81000</item>
+        <item>80802</item>
+        <item>80803</item>
+    </array>
+    <array name="rgb_light_icon">
+        <item>choosetype_carbon_sensor_icon</item>
+    </array>
+    <array name="rgb_light_mid">
+        <item>7020c</item>
+    </array>
+    <array name="rgb_light_type">
+        <item>RGB盒子 RL804CZB</item>
+    </array>
+    <array name="riceCooker_config_type">
+        <item>0</item>
+        <item>0</item>
+        <item>0</item>
+        <item>0</item>
+        <item>1</item>
+        <item>1</item>
+        <item>1</item>
+        <item>2</item>
+        <item>2</item>
+    </array>
+    <array name="riceCooker_mid">
+        <item>828402</item>
+        <item>828402</item>
+        <item>828402</item>
+        <item>828401</item>
+        <item>828404</item>
+        <item>828405</item>
+        <item>828405</item>
+        <item>828402</item>
+        <item>828402</item>
+    </array>
+    <array name="riceCooker_type">
+        <item>电饭煲</item>
+        <item>电饭煲 GDCF-4009C</item>
+        <item>电饭煲 GDCF-2008C、GDCF-20X60C</item>
+        <item>电饭煲 GDCF-4001Ch</item>
+        <item>电饭煲 GDCF-4010C</item>
+        <item>电饭煲 GDCF-40X61C</item>
+        <item>电饭煲 GDCF-40X61Cb</item>
+        <item>电饭煲 GDCF-30X66C</item>
+        <item>电饭煲 GDCF-30X88C</item>
+    </array>
+    <array name="riceCooker_type_icon">
+        <item>configdevice_icon_cooker</item>
+        <item>configdevice_icon_cooker_4009c</item>
+        <item>configdevice_icon_cooker_2008c</item>
+        <item>configdevice_icon_cooker_4001ch</item>
+        <item>configdevice_icon_cooker_4010c</item>
+        <item>configdevice_icon_cooker_40x61c</item>
+        <item>configdevice_icon_cooker_40x61cb</item>
+        <item>configdevice_icon_cooker_30x66c</item>
+        <item>configdevice_icon_cooker_30x88c</item>
+    </array>
+    <array name="room_recommend_roomname">
+        <item>客厅</item>
+        <item>卧室</item>
+        <item>儿童房</item>
+        <item>厨房</item>
+        <item>卫生间</item>
+        <item>浴室</item>
+        <item>衣帽间</item>
+        <item>书房</item>
+        <item>办公室</item>
+        <item>会议室</item>
+        <item>活动室</item>
+        <item>餐厅</item>
+        <item>玄关</item>
+        <item>门口</item>
+    </array>
+    <array name="route_mids">
+        <item>80202</item>
+        <item>80601</item>
+        <item>80401</item>
+        <item>80701</item>
+        <item>80704</item>
+        <item>80501</item>
+        <item>80702</item>
+        <item>80204</item>
+        <item>81000</item>
+        <item>80802</item>
+        <item>80803</item>
+        <item>80901</item>
+        <item>10f03</item>
+        <item>11f06</item>
+    </array>
+    <array name="scene_link_select_text_mid">
+        <item>80401</item>
+        <item>80501</item>
+        <item>7030A</item>
+        <item>7030E</item>
+        <item>70313</item>
+        <item>80801</item>
+        <item>80802</item>
+    </array>
+    <array name="scenes_linkage_tab_title">
+        <item>场景</item>
+        <item>联动</item>
+    </array>
+    <array name="select_spinner">
+        <item>设备添加失败</item>
+        <item>固件升级失败</item>
+        <item>设备离线</item>
+        <item>功能问题</item>
+        <item>界面问题</item>
+        <item>流量问题</item>
+        <item>操作意见</item>
+        <item>其他意见</item>
+        <item>您的新需求</item>
+    </array>
+    <array name="setTiming">
+        <item>0</item>
+        <item>15</item>
+        <item>30</item>
+        <item>45</item>
+        <item>60</item>
+    </array>
+    <array name="show_sub_dev_list">
+        <item>6000</item>
+        <item>6045</item>
+        <item>6046</item>
+        <item>6079</item>
+        <item>6099</item>
+        <item>6091</item>
+        <item>605d</item>
+        <item>608d</item>
+        <item>6301</item>
+        <item>6200</item>
+        <item>6400</item>
+        <item>60a1</item>
+        <item>60a0</item>
+        <item>60a4</item>
+    </array>
+    <array name="sleep_timing_list_name">
+        <item>当前音乐结束时</item>
+        <item>15分钟后</item>
+        <item>30分钟后</item>
+        <item>45分钟后</item>
+        <item>60分钟后</item>
+    </array>
+    <array name="smart_camera_cfg_reset_tip">
+        <item>接通电源，长按设备复位键5秒，直至WiFi灯闪烁（0.5秒亮0.5秒灭），表示WiFi重置成功。</item>
+        <item>接通电源，长按设备复位键5秒，直至WiFi灯闪烁（0.5秒亮0.5秒灭），表示WiFi重置成功。</item>
+    </array>
+    <array name="smart_camera_config_type">
+        <item>1</item>
+        <item>1</item>
+    </array>
+    <array name="smart_camera_mid">
+        <item>70311</item>
+        <item>70312</item>
+    </array>
+    <array name="smart_camera_newcfg_device_type_tip">
+        <item>(摄像机Speed 5S)</item>
+        <item>(摄像机Mini 2c)</item>
+    </array>
+    <array name="smart_camera_scancode">
+    </array>
+    <array name="smart_camera_type_icon">
+        <item>choosetype_tuya_smart_camera_speed_5s_type</item>
+        <item>choosetype_tuya_smart_camera_mini_2c_type</item>
+    </array>
+    <array name="smart_camera_type_name">
+        <item>摄像机Speed 5S</item>
+        <item>摄像机Mini 2c</item>
+    </array>
+    <array name="smart_ice_tab_title">
+        <item>情景</item>
+        <item>发现</item>
+    </array>
+    <array name="smart_socket_cfg_reset_tip">
+        <item>接通电源，长按设备复位键5秒，设备指示灯闪烁(0.5秒亮0.5秒灭)，表示复位成功，进入配网状态</item>
+        <item>接通电源，长按设备复位键5秒，设备指示灯闪烁(0.5秒亮0.5秒灭)，表示复位成功，进入配网状态</item>
+        <item>接通电源，长按设备复位键5秒，WiFi灯闪烁(0.5秒亮0.5秒灭)，表示WiFi重置成功。</item>
+    </array>
+    <array name="smart_socket_config_type">
+        <item>1</item>
+        <item>1</item>
+        <item>1</item>
+    </array>
+    <array name="smart_socket_icon">
+        <item>choosetype_gr_smart_socket_ss_i05abb01_icon</item>
+        <item>choosetype_gr_smart_socket_ss_i05abb01_icon</item>
+        <item>choosetype_tuya_t1s301_gb_smart_socket_icon</item>
+    </array>
+    <array name="smart_socket_mid">
+        <item>80802</item>
+        <item>80803</item>
+        <item>70313</item>
+    </array>
+    <array name="smart_socket_newcfg_device_type_tip">
+        <item>(SS-I05ABB01)</item>
+        <item>(SS-I05ABB02)</item>
+        <item>(智能插座T1s301-GB)</item>
+    </array>
+    <array name="smart_socket_type">
+        <item>SS-I05ABB01</item>
+        <item>SS-I05ABB02</item>
+        <item>智能插座T1s301-GB</item>
+    </array>
+    <array name="smart_tab_title">
+        <item>情景</item>
+        <item>智慧生活</item>
+        <item>发现</item>
+    </array>
+    <array name="smart_tab_title_by_phone">
+        <item>情景</item>
+        <item>智慧生活</item>
+    </array>
+    <array name="smoke_sensor_cfg_reset_tip">
+        <item>使用复位针长按复位孔直至绿灯熄灭后松开，\n再长按2秒，绿灯快闪，表示重置成功</item>
+        <item>使用复位针长按复位孔5秒，直至绿灯快闪，表示重置成功。</item>
+    </array>
+    <array name="smoke_sensor_icon">
+        <item>choosetype_smoke_sensor</item>
+        <item>choosetype_smoke_sensor</item>
+    </array>
+    <array name="smoke_sensor_mid">
+        <item>7020E</item>
+        <item>7030D</item>
+    </array>
+    <array name="smoke_sensor_reset_tip">
+        <item>(烟雾报警器SF20)</item>
+        <item>(烟雾报警器HS1SA)</item>
+    </array>
+    <array name="smoke_sensor_type">
+        <item>烟雾报警器SF20</item>
+        <item>烟雾报警器HS1SA</item>
+    </array>
+    <array name="steam_bake_config_type">
+        <item>1</item>
+    </array>
+    <array name="steam_bake_mid">
+        <item>828d04</item>
+    </array>
+    <array name="steam_bake_type_icon">
+        <item>configdevice_select_type_steam_bake_goqd_5701sa</item>
+    </array>
+    <array name="steam_bake_type_name">
+        <item>蒸烤双能机 GOQD-5701Sa</item>
+    </array>
+    <array name="switch_Type">
+        <item>极锐系列智能开关</item>
+        <item>情景面板T20S3Z</item>
+        <item>智能开关 SWL-G01/G02</item>
+        <item>智能开关 SWL-P01/P02</item>
+        <item>情景开关SWL-G05(4)</item>
+        <item>智能开关PS183/PS182/PS181</item>
+        <item>情景开关SWS-01(4)</item>
+    </array>
+    <array name="switch_deviceType">
+        <item>1</item>
+        <item>1</item>
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>1</item>
+        <item>4</item>
+    </array>
+    <array name="switch_icon">
+        <item>choosetype_ouribo_smart_switchs</item>
+        <item>choosetype_ouribo_scene_panel</item>
+        <item>configdevice_select_type_class_switch</item>
+        <item>configdevice_select_type_plastic_cement_switch</item>
+        <item>configdevice_select_type_class_scene_switch</item>
+        <item>configdevice_select_type_tuya_ps182_switch</item>
+        <item>configdevice_select_type_class_scene_switch_with_low_pow</item>
+    </array>
+    <array name="switch_mid">
+        <item>70202</item>
+        <item>70204</item>
+        <item>80401</item>
+        <item>80401</item>
+        <item>80601</item>
+        <item>7030A</item>
+        <item>80601</item>
+    </array>
+    <array name="switch_newcfg_tip">
+        <item>(极锐系列智能开关)</item>
+        <item>(情景面板T20S3Z)</item>
+    </array>
+    <array name="swrb_Water_name">
+        <item>小水量</item>
+        <item>中水量</item>
+        <item>大水量</item>
+    </array>
+    <array name="swrb_Water_value">
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+    </array>
+    <array name="swrb_WindPower_name">
+        <item>安静</item>
+        <item>标准</item>
+        <item>强劲</item>
+        <item>超强</item>
+    </array>
+    <array name="swrb_WindPower_value">
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+    </array>
+    <array name="swrb_area_unit_name">
+        <item>平方米</item>
+        <item>平方英尺</item>
+    </array>
+    <array name="swrb_area_unit_value">
+        <item>m2</item>
+        <item>ft2</item>
+    </array>
+    <array name="swrb_clean_num_name">
+        <item>1次</item>
+        <item>2次</item>
+    </array>
+    <array name="swrb_clean_num_value">
+        <item>1</item>
+        <item>2</item>
+    </array>
+    <array name="swrb_delay_error_code">
+        <item>-2101</item>
+        <item>-2605</item>
+    </array>
+    <array name="swrb_edit_room_name_label">
+        <item>客厅</item>
+        <item>主卧</item>
+        <item>次卧</item>
+        <item>阳台</item>
+        <item>厨房</item>
+        <item>卫生间</item>
+        <item>儿童房</item>
+        <item>玄关</item>
+    </array>
+    <array name="swrb_error_code">
+        <item>-2101</item>
+        <item>-2102</item>
+        <item>-2502</item>
+        <item>-2406</item>
+        <item>-2602</item>
+        <item>-2201</item>
+        <item>-2302</item>
+        <item>-2405</item>
+        <item>-2607</item>
+        <item>-2305</item>
+        <item>-2306</item>
+        <item>-2308</item>
+        <item>-2309</item>
+        <item>-2401</item>
+        <item>-2402</item>
+        <item>-2501</item>
+        <item>-2304</item>
+        <item>-2605</item>
+        <item>-2606</item>
+        <item>-5058</item>
+        <item>-2001</item>
+        <item>-2604</item>
+        <item>-2800</item>
+        <item>-2801</item>
+        <item>-2000</item>
+        <item>-2311</item>
+        <item>-2603</item>
+        <item>-2403</item>
+        <item>-2700</item>
+        <item>-2301</item>
+        <item>-2503</item>
+        <item>-2504</item>
+        <item>-2505</item>
+        <item>-2506</item>
+        <item>-2507</item>
+    </array>
+    <array name="swrb_error_name">
+        <item>电量低，请及时充电</item>
+        <item>电量过低，需要自动关机</item>
+        <item>主机离地，请将主机移到水平地面再启动</item>
+        <item>请检查尘盒和滤网是否安装到位</item>
+        <item>请检查水箱和拖布是否安装到位</item>
+        <item>请检查驱动轮是否被异物卡住</item>
+        <item>请检查主机边缘或底盘是否被异物卡住</item>
+        <item>尘盒已满，请清理尘盒和滤网</item>
+        <item>请擦拭悬崖传感器，并移到水平地面启动</item>
+        <item>请擦拭和清理激光传感器</item>
+        <item>请检查激光传感器上盖是否被卡住</item>
+        <item>请轻拍和清理主机正前方的防撞缓冲板</item>
+        <item>请清理主机右侧沿墙传感器</item>
+        <item>请检查滚刷是否被异物卡住</item>
+        <item>请检查边刷是否被异物卡住</item>
+        <item>主机被困，请清理周围障碍物</item>
+        <item>主机倾斜，请移到水平地面再启动</item>
+        <item>请检查指定区域是否有障碍物</item>
+        <item>请搬离虚拟墙或禁区后再启动</item>
+        <item>未找到充电座</item>
+        <item>充电异常，请检查充电区域是否有灰尘或异物</item>
+        <item>无法升级，请确保主机电量充足和网络正常</item>
+        <item>请打开主机电源开关</item>
+        <item>充电中电池异常</item>
+        <item>电池异常</item>
+        <item>请擦拭回充传感器</item>
+        <item>水箱水量不足，请加水</item>
+        <item>吸尘风机异常，请尝试重置系统</item>
+        <item>水泵电机异常，请尝试重置系统</item>
+        <item>驱动轮编码器异常，请尝试重置系统</item>
+        <item>主机异常，请尝试关机后再重启主机</item>
+        <item>滚刷电机异常，请尝试重置系统</item>
+        <item>驱动轮电机异常，请尝试重置系统</item>
+        <item>边刷电机异常，请尝试重置系统</item>
+        <item>雷达电机异常，请尝试重置系统</item>
+    </array>
+    <array name="swrb_error_tips">
+        <item>电池电量低，需要及时充电后再使用</item>
+        <item>电池电量过低，自动关机，请充电后再使用</item>
+        <item>轮子悬空或主机被抱起，请将主机放在水平地面启动</item>
+        <item>请确认尘盒和滤网是否安装到位；如已安装到位仍报错，则尝试更换滤网</item>
+        <item>请确认水箱和拖布是否安装到位；如已安装到位仍报错，则尝试更换拖布</item>
+        <item>驱动轮可能被异物卡住，请清理并重新启动</item>
+        <item>主机边缘或底盘可能被异物卡住，请清理并重新启动</item>
+        <item>请及时清理尘盒和滤网</item>
+        <item>悬崖传感器可能被灰尘遮挡，请擦拭并移到水平地面启动</item>
+        <item>激光传感器被异物或灰尘遮挡，请清理并移到新位置启动</item>
+        <item>激光传感器上盖被压住或者卡住，请移到新位置启动</item>
+        <item>主机正前方的防撞缓冲板被卡住，请轻拍清理后，移到新位置启动</item>
+        <item>主机右侧沿墙传感器可能被灰尘遮挡，请擦拭并移到新位置启动</item>
+        <item>滚刷可能被异物卡住，请清理并重新启动</item>
+        <item>边刷可能被异物卡住，请清理并重新启动</item>
+        <item>请清理周围障碍物后再启动，或将主机移到新位置启动</item>
+        <item>启动时主机倾斜，请将主机移到水平地面启动</item>
+        <item>指定区域无法到达，请检查指定区域是否有障碍物</item>
+        <item>检测到虚拟墙/禁区启动异常，请搬离虚拟墙或禁区后再启动</item>
+        <item>请将充电座插电并确保周围无障碍物</item>
+        <item>请清理主机充电极片和充电座极片的灰尘或异物，并确保充电接触良好</item>
+        <item>请将主机及时充电并确保电量充足，并确保网络连接正常</item>
+        <item>无法充电，请打开主机电源开关后再充电</item>
+        <item>请检查电池是否已安装，若已安装则说明电池出现异常</item>
+        <item>电池温度过高或过低，请关机等待一段时间后，再重启主机</item>
+        <item>回充传感器被灰尘或异物遮挡，请清理并移到新位置启动</item>
+        <item>请往水箱里添加足量的水</item>
+        <item>吸尘风机无法正常工作，请尝试重置系统</item>
+        <item>水泵电机无法正常工作，请尝试重置系统</item>
+        <item>驱动轮编码器无法正常工作，请尝试重置系统</item>
+        <item>请重启主机后再工作</item>
+        <item>滚刷电机无法正常工作，请尝试重置系统</item>
+        <item>驱动轮电机无法正常工作，请尝试重置系统</item>
+        <item>边刷电机无法正常工作，请尝试重置系统</item>
+        <item>雷达电机无法正常工作，请尝试重置系统</item>
+    </array>
+    <array name="swrb_gree_error_code">
+        <item>E001</item>
+        <item>E002</item>
+        <item>E003</item>
+        <item>E004</item>
+        <item>E005</item>
+        <item>E006</item>
+        <item>E007</item>
+        <item>E008</item>
+        <item>E009</item>
+        <item>E010</item>
+        <item>E011</item>
+        <item>E012</item>
+        <item>E013</item>
+        <item>E014</item>
+        <item>E015</item>
+        <item>E016</item>
+        <item>E017</item>
+        <item>E018</item>
+        <item>E019</item>
+        <item>E020</item>
+        <item>E021</item>
+        <item>E022</item>
+        <item>E023</item>
+        <item>E024</item>
+        <item>E025</item>
+        <item>E026</item>
+        <item>E027</item>
+        <item>E028</item>
+        <item>E029</item>
+        <item>E030</item>
+        <item>E031</item>
+        <item>E032</item>
+        <item>E033</item>
+        <item>E034</item>
+        <item>E035</item>
+    </array>
+    <array name="swrb_repeat_day_name">
+        <item>周一</item>
+        <item>周二</item>
+        <item>周三</item>
+        <item>周四</item>
+        <item>周五</item>
+        <item>周六</item>
+        <item>周日</item>
+    </array>
+    <array name="swrb_repeat_day_value">
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+        <item>6</item>
+        <item>0</item>
+    </array>
+    <array name="swrb_warn_code">
+        <item>6097</item>
+        <item>6052</item>
+        <item>6126</item>
+        <item>6128</item>
+        <item>6034</item>
+        <item>6127</item>
+        <item>5059</item>
+        <item>6012</item>
+        <item>6096</item>
+        <item>6023</item>
+        <item>6083</item>
+        <item>6105</item>
+        <item>6095</item>
+        <item>6113</item>
+        <item>6129</item>
+        <item>6130</item>
+        <item>6131</item>
+        <item>6132</item>
+        <item>6133</item>
+        <item>6134</item>
+        <item>6135</item>
+        <item>6136</item>
+        <item>6137</item>
+        <item>6138</item>
+        <item>6150</item>
+    </array>
+    <array name="swrb_warn_condition">
+        <item>开始清扫但电量低</item>
+        <item>开始清扫，地图数据丢失</item>
+        <item>清扫定位失败</item>
+        <item>预约清扫时段正在执行其他任务</item>
+        <item>预约清扫</item>
+        <item>回充定位失败</item>
+        <item>回充失败</item>
+        <item>进入勿扰模式</item>
+        <item>断点续扫</item>
+        <item>清扫完成</item>
+        <item>定位主机</item>
+        <item>关机</item>
+        <item>区域清扫</item>
+        <item>定点清扫</item>
+        <item>定时清扫</item>
+        <item>开始充电</item>
+        <item>耗材到期</item>
+        <item>耗材到期</item>
+        <item>耗材到期</item>
+        <item>传感器保养</item>
+        <item>耗材到期</item>
+        <item>耗材到期</item>
+        <item>耗材到期</item>
+        <item>传感器保养</item>
+        <item>拖地模式下，上桩充电</item>
+    </array>
+    <array name="swrb_warn_consume_code">
+        <item>6131</item>
+        <item>6132</item>
+        <item>6133</item>
+        <item>6134</item>
+        <item>6135</item>
+        <item>6136</item>
+        <item>6137</item>
+        <item>6138</item>
+    </array>
+    <array name="swrb_warn_msg">
+        <item>电量过低，请充电后再启动</item>
+        <item>地图数据丢失，正在重新定位建图，请等待</item>
+        <item>定位失败，无法清扫，请重新操作</item>
+        <item>当前有未完成的任务，本次预约清扫任务不执行</item>
+        <item>预约时间到，开始清扫</item>
+        <item>定位失败，停止回充，请重新操作</item>
+        <item>充电异常或回充失败, 请清理充电座附近障碍物及充电座极片区域</item>
+        <item>主机进入勿扰模式，将降低播放语音，也不会断点续扫</item>
+        <item>电量已充足，自动开始断点续扫</item>
+        <item>清扫已完成，开始回充</item>
+        <item>我在这里</item>
+        <item>如需关机，请离开充电座后再关机</item>
+        <item>开始房间清扫</item>
+        <item>开始定点清扫</item>
+        <item>开始定时清扫</item>
+        <item>充电时请及时取下拖地水箱</item>
+        <item>滤网寿命即将到期，请及时更换</item>
+        <item>边刷寿命即将到期，请及时更换</item>
+        <item>滚刷寿命即将到期，请及时更换</item>
+        <item>传感器工作时间即将到期，请及时清理</item>
+        <item>滤网寿命已到期，请及时更换</item>
+        <item>边刷寿命已到期，请及时更换</item>
+        <item>滚刷寿命已到期，请及时更换</item>
+        <item>传感器工作时间已到期，请及时清理</item>
+        <item>充电时，请取出拖布支架，清空水箱</item>
+    </array>
+    <array name="swrb_warn_name">
+        <item>电量低</item>
+        <item>开始清扫</item>
+        <item>清扫定位失败</item>
+        <item>预约清扫</item>
+        <item>预约清扫</item>
+        <item>回充定位失败</item>
+        <item>回充失败</item>
+        <item>进入勿扰模式</item>
+        <item>断点续扫</item>
+        <item>清扫完成</item>
+        <item>定位主机</item>
+        <item>关机</item>
+        <item>房间清扫</item>
+        <item>定点清扫</item>
+        <item>定时清扫</item>
+        <item>开始充电</item>
+        <item>耗材到期</item>
+        <item>耗材到期</item>
+        <item>耗材到期</item>
+        <item>传感器保养</item>
+        <item>耗材到期</item>
+        <item>耗材到期</item>
+        <item>耗材到期</item>
+        <item>传感器保养</item>
+        <item>取出拖布支架和清空水箱</item>
+    </array>
+    <array name="temperature_sensor_cfg_reset_tip">
+        <item>使用复位针长按复位孔直至绿灯熄灭后松开，\n再长按2秒，绿灯快闪，表示重置成功</item>
+        <item>使用复位针长按复位孔5秒，直至蓝灯闪烁，表示重置成功。</item>
+    </array>
+    <array name="temperature_sensor_icon">
+        <item>choosetype_temperature_sensor_icon_by_gree</item>
+        <item>choosetype_temperature_sensor_icon</item>
+        <item>choosetype_tuya_tt001_za_temperature_sensor_icon</item>
+    </array>
+    <array name="temperature_sensor_mid">
+        <item>80701</item>
+        <item>7020F</item>
+        <item>70306</item>
+    </array>
+    <array name="temperature_sensor_reset_tip">
+        <item>(温湿度传感器SP10W)</item>
+        <item>(温湿度传感器TT001-ZA)</item>
+    </array>
+    <array name="temperature_sensor_type">
+        <item>SENH01a</item>
+        <item>温湿度传感器SP10W</item>
+        <item>温湿度传感器TT001-ZA</item>
+    </array>
+    <array name="tick_below_swb_tuodi">
+        <item>小水量</item>
+        <item>中水量</item>
+        <item>大水量</item>
+    </array>
+    <array name="tick_below_swb_xili">
+        <item>安静</item>
+        <item>标准</item>
+        <item>强劲</item>
+        <item>超强</item>
+    </array>
+    <array name="tracker_icon">
+        <item>choosetype_gr_tracker</item>
+    </array>
+    <array name="tracker_mid">
+        <item>81000</item>
+    </array>
+    <array name="tracker_newcfg_tip">
+        <item>(SM-01)</item>
+    </array>
+    <array name="tracker_type">
+        <item>SM-01</item>
+    </array>
+    <array name="tuya_device_type_icon_res">
+        <item>configdevice_icon_gate_way</item>
+        <item>configdevice_icon_emergency_button</item>
+        <item>configdevice_icon_temperature_sensor</item>
+        <item>configdevice_icon_smoke_sensor</item>
+        <item>configdevice_icon_water_immersion_sensor</item>
+        <item>configdevice_icon_combustible_gas_sensor</item>
+        <item>configdevice_icon_gate_magnetism</item>
+        <item>configdevice_icon_human_body_sensor</item>
+        <item>configdevice_icon_catalog_switchs_ouruibo_open</item>
+        <item>configdevice_icon_curtain_motor</item>
+        <item>configdevice_icon_emergency_button</item>
+        <item>configdevice_icon_carbon_sensor</item>
+        <item>discover_device_smart_socket</item>
+        <item>configdevice_icon_catalog_smart_camera</item>
+        <item>configdevice_icon_catalog_smart_camera</item>
+    </array>
+    <array name="tuya_device_type_mid">
+        <item>70301</item>
+        <item>7030C</item>
+        <item>70306</item>
+        <item>7030D</item>
+        <item>70303</item>
+        <item>70307</item>
+        <item>70308</item>
+        <item>70302</item>
+        <item>7030A</item>
+        <item>7030E</item>
+        <item>70305</item>
+        <item>70310</item>
+        <item>70313</item>
+        <item>70311</item>
+        <item>70312</item>
+    </array>
+    <array name="tuya_device_type_name">
+        <item>wfcon</item>
+        <item>sos</item>
+        <item>wsdcg</item>
+        <item>ywbj</item>
+        <item>sj</item>
+        <item>rqbj</item>
+        <item>mcs</item>
+        <item>pir</item>
+        <item>kg</item>
+        <item>cl</item>
+        <item>sgbj</item>
+        <item>cobj</item>
+        <item>cz</item>
+        <item>sp</item>
+        <item>mini</item>
+    </array>
+    <array name="tuya_guide_add_mid_list">
+        <item>70301</item>
+        <item>70313</item>
+        <item>7030E</item>
+        <item>70311</item>
+        <item>70312</item>
+        <item>7030A</item>
+    </array>
+    <array name="type_scann_code">
+        <item>0#20#XQG62-B1401Cb1</item>
+        <item>0#20#XQG70-DWB1401Aa1</item>
+        <item>0#20#XQG62-B1401Cd1#28a81</item>
+        <item>0#20#XQG58-B1401Cd1#28a81</item>
+        <item>0#11#KJ450G-A01</item>
+        <item>0#11#KJ280F-A01</item>
+        <item>0#11#KJ500G-A01</item>
+        <item>0#11#KJ700G-A01</item>
+        <item>1#11#KXJFA300-A01#828105</item>
+        <item>1#11#KXJFA300-A01-1#828105</item>
+        <item>1#11#KXJFA300-A02#828105</item>
+        <item>1#11#KXJFA300-A02-1#828105</item>
+        <item>1#11#KJ350G-A01#828103</item>
+        <item>1#11#KJ500G-B01#828103</item>
+        <item>1#16#CXW-200-CCS06#828600</item>
+        <item>1#16#CXW-200-CCS07#828600</item>
+        <item>1#16#CXW-200-CCS11#828601</item>
+        <item>1#16#CXW-200-TCS05#828600</item>
+        <item>1#16#CXW-200-CCS12#828600</item>
+        <item>0#17#XZTD105A-03</item>
+        <item>0#8#L1PB26-G24/A2</item>
+        <item>0#8#L1PB30-G28/A2</item>
+        <item>1#8#LL1GBQ24-G24/C1#828c00</item>
+        <item>1#8#L1PB20-G18/A2#828c02</item>
+        <item>1#8#L1PB20-G18/A3#828c02</item>
+        <item>1#8#L1PB26-G24/A3#828c02</item>
+        <item>1#8#L1PB28-G26/A3#828c02</item>
+        <item>1#8#L1PB30-G28/A3#828c02</item>
+        <item>1#8#LL1GBQ20-G20/C1#828c00</item>
+        <item>1#8#LL1GBQ32-G32/C1#828c00</item>
+        <item>1#8#LL1GBQ35-G35/C1#828c00</item>
+        <item>1#9#FSZ-3013Bg7#828204</item>
+        <item>1#9#KS-1501RD#828205</item>
+        <item>1#6#GN-HRZ32MDGSV/NaA#809030</item>
+        <item>1#6#GN-HRZ38MDGSV/NaA#809030</item>
+        <item>0#15#GDCF-2008C</item>
+        <item>0#15#GDCF-4001Ch</item>
+        <item>0#21#WTE-PT63-2X601A</item>
+        <item>0#21#WTE-PT63-2023</item>
+        <item>0#21#WTE-PT16-3X601Y</item>
+        <item>0#21#WTE-PT63-4015</item>
+        <item>0#21#WTE-PT63-4016</item>
+        <item>1#21#WTE-PT95-2X601B#828301</item>
+        <item>1#21#WTE-PT63-2021#828301</item>
+        <item>1#21#WTE-PT95-2026#828301</item>
+        <item>1#21#WTE-PT63-2X602A#828301</item>
+        <item>1#21#WTE-PT63-2X601C#828301</item>
+        <item>1#21#WTE-PT95-2X601D#828301</item>
+        <item>1#22#RJY-L16-4505#828304</item>
+        <item>0#13#SC-25X60A</item>
+        <item>0#13#SC-25X60AZ</item>
+        <item>2#13#SC-40X65A#828502</item>
+        <item>1#13#SCK-50X62#828503</item>
+        <item>0#9#KS-0705D</item>
+        <item>1#9#KS-1501RD#828205</item>
+        <item>0#9#FLZ-0903Bag</item>
+        <item>1#9#FSZ-3013Bg7#828204</item>
+        <item>2#9#FL-09T65Bh#828202</item>
+        <item>1#9#FLZ-09X67Bg#828211</item>
+        <item>1#9#FSZ-20X60Bg3#828209</item>
+        <item>2#9#FSZ-20X60Bag3#828209</item>
+        <item>1#9#FWZ-1201Bg#828208</item>
+        <item>1#9#FSZ-2001Bg3#828209</item>
+        <item>1#6#GN-HRZ32DGSV/NaA#809030</item>
+        <item>1#6#GN-HRZ38DGSV/NaA#809030</item>
+        <item>2#0#KFR-35GNhLaB3W#11002</item>
+        <item>2#0#KFR-26GNhLaB3W#11002</item>
+        <item>2#0#KFR-35GNhLbB3W#11002</item>
+        <item>2#0#KFR-26GNhLbB3W#11002</item>
+        <item>2#0#KFR-26GNhLbB3W#11002</item>
+        <item>2#0#KFR-26GNhLcB3W#11002</item>
+        <item>2#0#KFR-35GNhLdB3W#11002</item>
+        <item>2#0#KFR-26GNhLdB3W#11002</item>
+        <item>2#0#KFR-35GNhPaB1W#11002</item>
+        <item>2#0#KFR-26GNhPaB1W#11002</item>
+        <item>2#0#KFR-35GNhPbB1W#11002</item>
+        <item>2#0#KFR-26GNhPbB1W#11002</item>
+        <item>2#0#KFR-35GNhPcB1W#11002</item>
+        <item>2#0#KFR-26GNhPcB1W#11002</item>
+        <item>2#0#KFR-35GNhPeB1W#11002</item>
+        <item>2#0#KFR-26GNhPeB1W#11002</item>
+        <item>1#0#KFR-35GNhPdB1W#11002</item>
+        <item>1#0#KFR-26GNhPdB1W#11002</item>
+        <item>1#0#KFR-26GNhLeB3W#11002</item>
+        <item>1#0#KFR-35GNhLeB3W#11002</item>
+        <item>1#0#KFR-72L(72530)FNhAa-A3(WIFI)#11000</item>
+        <item>1#0#KFR-72L(72530)FNhAb-A3(WIFI)#11000</item>
+        <item>1#0#KFR-50L(50530)FNhAa-A3(WIFI)#11000</item>
+        <item>1#0#KFR-50L(50530)FNhAb-A3(WIFI)#11000</item>
+        <item>1#0#KFR-72L(72530)NhAa-3(WIFI)#11000</item>
+        <item>1#0#KFR-72L(72530)NhAb-3(WIFI)#11000</item>
+        <item>1#0#KFR-50L(50530)NhAa-3(WIFI)#11000</item>
+        <item>1#0#KFR-50L(50530)NhAb-3(WIFI)#11000</item>
+        <item>1#0#KFR-72L(72582)FNhCb-A1(WIFI)#11005</item>
+        <item>1#0#KFR-26G(26537)FNhAa-A1(WIFI)#10011</item>
+        <item>1#0#KFR-32G(32537)FNhAa-A1(WIFI)#10011</item>
+        <item>1#0#KFR-35G(35537)FNhAa-A1(WIFI)#10011</item>
+        <item>1#0#KFR-26G(26537)FNhCa-A1(WIFI)#10011</item>
+        <item>1#0#KFR-32G(32537)FNhCa-A1(WIFI)#10011</item>
+        <item>1#0#KFR-35G(35537)FNhCa-A1(WIFI)#10011</item>
+        <item>1#0#KFR-50L(50582)FNhAc-B1(WIFI)#11005</item>
+        <item>1#0#KFR-72L(72582)FNhCb-B1(WIFI)#11005</item>
+        <item>1#0#KFR-72L(72582)FNhCa-B1(WIFI)#11005</item>
+        <item>1#0#KFR-50L(50582)FNhCb-B1(WIFI)#11005</item>
+        <item>1#0#KFR-50L(50582)FNhCa-B1(WIFI)#11005</item>
+        <item>1#0#KFR-26G(26537)FNhAa-B1(WIFI)#10011</item>
+        <item>1#0#KFR-26G(26537)FNhCa-B1(WIFI)#10011</item>
+        <item>1#0#KFR-26G(26537)FNhCb-B1(WIFI)#10011</item>
+        <item>1#0#KFR-26G(26537)FNhCc-B1(WIFI)#10011</item>
+        <item>1#0#KFR-32G(32537)FNhAa-B1(WIFI)#10011</item>
+        <item>1#0#KFR-32G(32537)FNhCa-B1(WIFI)#10011</item>
+        <item>1#0#KFR-32G(32537)FNhCb-B1(WIFI)#10011</item>
+        <item>1#0#KFR-32G(32537)FNhCc-B1(WIFI)#10011</item>
+        <item>1#0#KFR-35G(35537)FNhAa-B1(WIFI)#10011</item>
+        <item>1#0#KFR-35G(35537)FNhCa-B1(WIFI)#10011</item>
+        <item>1#0#KFR-35G(35537)FNhCb-B1(WIFI)#10011</item>
+        <item>1#0#KFR-35G(35537)FNhCc-B1(WIFI)#10011</item>
+        <item>1#0#KFR-35G(35537)FNhCc-B1(WIFI)#10011</item>
+        <item>1#0#KFR-26G(26537)FNhCd-B1(WIFI)#10011</item>
+        <item>1#0#KFR-35G(35537)FNhCd-B1(WIFI)#10011</item>
+        <item>1#0#KFR-35G(35537)FNhCe-B1(WIFI)#10011</item>
+        <item>3#0#KFR-26GNhBc3BAs#10012</item>
+        <item>3#0#KFR-35GNhBc3BAs#10012</item>
+        <item>3#0#KFR-26GNhBb3BAj#10012</item>
+        <item>3#0#KFR-35GNhBb3BAj#10012</item>
+        <item>3#0#KFR-50GNhIa3BAj#10012</item>
+        <item>3#0#KFR-72GNhIa3BAj#10012</item>
+        <item>3#0#KFR-35GNhHb1BAj#10012</item>
+        <item>3#0#KFR-26GNhHb1BAj#10012</item>
+        <item>3#0#KFR-50LNhAa1BAj#11000</item>
+        <item>3#0#KFR-50LNhAa1BAt#11000</item>
+        <item>3#0#KFR-50LNhAa1BAg#11000</item>
+        <item>3#0#KFR-50LNhAa1BAs#11000</item>
+        <item>3#0#KFR-72LNhAa1BAj#11000</item>
+        <item>3#0#KFR-72LNhAa1BAt#11000</item>
+        <item>3#0#KFR-72LNhAa1BAg#11000</item>
+        <item>3#0#KFR-72LNhAa1BAs#11000</item>
+        <item>3#0#KFR-72LNhAb3BG#11000</item>
+        <item>3#0#KFR-50LNhAb3BG#11000</item>
+        <item>3#0#KFR-72LNhDd1BWt#11000</item>
+        <item>3#0#KFR-72LNhDd1BAj#11000</item>
+        <item>3#0#KFR-72LNhDd1BAs#11000</item>
+        <item>3#0#KFR-72LNhDd1BAg#11000</item>
+        <item>3#0#KFR-50LNhDd1BWt#11000</item>
+        <item>3#0#KFR-50LNhDd1BAj#11000</item>
+        <item>3#0#KFR-50LNhDd1BAs#11000</item>
+        <item>3#0#KFR-50LNhDd1BAg#11000</item>
+        <item>3#0#KFR-26GNhCc1BAj#10012</item>
+        <item>3#0#KFR-26GNhCc1BAs#10012</item>
+        <item>3#0#KFR-26GNhCc1BAg#10012</item>
+        <item>3#0#KFR-26GNhCc1BAt#10012</item>
+        <item>3#0#KFR-26GNhCd1BAj#10012</item>
+        <item>3#0#KFR-26GNhCd1BAs#10012</item>
+        <item>3#0#KFR-26GNhCd1BAg#10012</item>
+        <item>3#0#KFR-26GNhCd1BAt#10012</item>
+        <item>3#0#KFR-35GNhCc1BAj#10012</item>
+        <item>3#0#KFR-35GNhCc1BAs#10012</item>
+        <item>3#0#KFR-35GNhCc1BAg#10012</item>
+        <item>3#0#KFR-35GNhCc1BAt#10012</item>
+        <item>3#0#KFR-35GNhCd1BAj#10012</item>
+        <item>3#0#KFR-35GNhCd1BAs#10012</item>
+        <item>3#0#KFR-35GNhCd1BAg#10012</item>
+        <item>3#0#KFR-35GNhCd1BAt#10012</item>
+        <item>1#0#KFR-50GNhIc1BW#11002</item>
+        <item>1#0#KFR-50GNhId1BW#11002</item>
+        <item>1#0#KFR-26G(26519)FNhAa-A1(WIFI)#11002</item>
+        <item>1#0#KFR-32G(32519)FNhAa-A1(WIFI)#11002</item>
+        <item>1#0#KFR-35G(35519)FNhAa-A1(WIFI)#11002</item>
+        <item>1#0#KFR-72LNhJa1BG#11000</item>
+        <item>1#0#KFR-50LNhJa1BG#11000</item>
+        <item>1#0#KFR-72LNhJb1BG#11000</item>
+        <item>1#0#KFR-50LNhJb1BG#11000</item>
+        <item>1#0#KFR-72L(72501)FNhAa-A1(WIFI)#11009</item>
+        <item>1#0#KFR-72L(72501)FNhAa-B1(WIFI)#11009</item>
+        <item>1#0#KFR-50L(50501)FNhAa-B1(WIFI)#11009</item>
+        <item>1#0#KFR-26G(26509)FNhAa-B1(WIFI)#11002</item>
+        <item>1#0#KFR-32G(32509)FNhAa-B1(WIFI)#11002</item>
+        <item>1#0#KFR-35G(35509)FNhAa-B1(WIFI)#11002</item>
+        <item>1#0#KFR-35G(35588)FNhAa-A1(WIFI)#10010</item>
+        <item>1#0#KFR-26G(26588)FNhAa-A1(WIFI)#10010</item>
+        <item>1#0#KFR-35G(35588)FNhAa-B1(WIFI)#10010</item>
+        <item>1#0#KFR-26G(26588)FNhAa-B1(WIFI)#10010</item>
+        <item>2#0#KFR-26GNhAa1BAj#11002</item>
+        <item>2#0#KFR-26GNhAa1BAt#11002</item>
+        <item>2#0#KFR-26GNhAa1BAs#11002</item>
+        <item>2#0#KFR-26GNhAa1BAg#11002</item>
+        <item>2#0#KFR-35GNhAa1BAj#11002</item>
+        <item>2#0#KFR-35GNhAa1BAt#11002</item>
+        <item>2#0#KFR-35GNhAa1BAs#11002</item>
+        <item>2#0#KFR-35GNhAa1BAg#11002</item>
+        <item>2#0#KFR-26GNhBa3BWt#11002</item>
+        <item>2#0#KFR-35GNhBa3BWt#11002</item>
+        <item>2#0#KFR-50LNhDc2BAj#11000</item>
+        <item>2#0#KFR-50LNhDc2BAs#11000</item>
+        <item>2#0#KFR-50LNhDc2BAg#11000</item>
+        <item>2#0#KFR-50LNhDc2BWt#11000</item>
+        <item>2#0#KFR-72LNhDc2BAj#11000</item>
+        <item>2#0#KFR-72LNhDc2BAs#11000</item>
+        <item>2#0#KFR-72LNhDc2BAg#11000</item>
+        <item>2#0#KFR-72LNhDc2BWt#11000</item>
+        <item>2#0#KFR-26GNhHa1BAj#11002</item>
+        <item>2#0#KFR-26GNhHa1BAt#11002</item>
+        <item>2#0#KFR-26GNhHa1BAs#11002</item>
+        <item>2#0#KFR-35GNhHa1BAj#11002</item>
+        <item>2#0#KFR-35GNhHa1BAt#11002</item>
+        <item>2#0#KFR-35GNhHa1BAs#11002</item>
+        <item>1#0#KFR-26G(26519)FNhAa-B3(WIFI)#11002</item>
+        <item>1#0#KFR-32G(32519)FNhAa-B3(WIFI)#11002</item>
+        <item>1#0#KFR-35G(35519)FNhAa-B3(WIFI)#11002</item>
+        <item>1#0#KFR-35G(35565)FNhAa-B1(WIFI)#11002</item>
+        <item>1#0#KFR-26G(26565)FNhAa-B1(WIFI)#11002</item>
+        <item>2#0#KFR-26GNhCe3BAj#11002</item>
+        <item>2#0#KFR-26GNhCe3BAt#11002</item>
+        <item>2#0#KFR-26GNhCe3BAs#11002</item>
+        <item>2#0#KFR-26GNhCe3BAg#11002</item>
+        <item>2#0#KFR-35GNhCe3BAj#11002</item>
+        <item>2#0#KFR-35GNhCe3BAt#11002</item>
+        <item>2#0#KFR-35GNhCe3BAs#11002</item>
+        <item>2#0#KFR-35GNhCe3BAg#11002</item>
+        <item>3#0#KFR-26GNhCb2BAj#11002</item>
+        <item>3#0#KFR-35GNhCb2BAj#11002</item>
+        <item>3#0#KFR-72LNhEa3BAj#11002</item>
+        <item>3#0#KFR-50LNhEa3BAj#11002</item>
+        <item>2#0#KFR-50LNhGb3BAj#11002</item>
+        <item>2#0#KFR-72LNhGb3BAj#11002</item>
+        <item>2#0#KFR-50LNhGb3BAt#11002</item>
+        <item>2#0#KFR-72LNhGb3BAt#11002</item>
+        <item>2#0#KFR-50LNhGb3BAg#11002</item>
+        <item>2#0#KFR-72LNhGb3BAg#11002</item>
+        <item>2#0#KFR-50LNhGb3BAs#11002</item>
+        <item>2#0#KFR-72LNhGb3BAs#11002</item>
+        <item>1#0#KFR-72L(72567)FNhAa-B1(WIFI)#11000</item>
+        <item>1#0#KFR-50L(50567)FNhAa-B1(WIFI)#11000</item>
+        <item>1#0#KFR-72L(72567)FNhAb-B1(WIFI)#11000</item>
+        <item>1#0#KFR-50L(50567)FNhAb-B1(WIFI)#11000</item>
+        <item>1#0#KFR-72L(72567)FNhAa-B1(WIFI)&amp;ky=1#11000</item>
+        <item>1#0#KFR-72L(72567)FNhAb-B1(WIFI)&amp;ky=1#11000</item>
+        <item>1#0#KFR-26G(26526)FNhAa-B3(WIFI)#11002</item>
+        <item>1#0#KFR-32G(32526)FNhAa-B3(WIFI)#11002</item>
+        <item>1#0#KFR-35G(35526)FNhAa-B3(WIFI)#11002</item>
+        <item>5#0#KFR-72L(72518)FNhAa-B1(WIFI)#11012</item>
+        <item>5#0#KFR-50L(50518)FNhAa-B1(WIFI)#11012</item>
+        <item>5#0#KFR-72L(72518)FNhAa-B1(WIFI)&amp;ky=1#11012</item>
+        <item>1#0#KFR-26G(26554)FNhAa-B1(WIFI)#11002</item>
+        <item>1#0#KFR-35G(35554)FNhAa-B1(WIFI)#11002</item>
+        <item>0#1#KFR-72L(72550)FNhAh-A1</item>
+        <item>0#1#KFR-50L(50550)FNhAh-A1</item>
+        <item>0#1#KFR-72L(72550)FNhAh-A1</item>
+        <item>0#1#KFR-72L(72550)FNhAi-A1</item>
+        <item>0#1#KFR-50L(50550)FNhAi-A1</item>
+        <item>0#1#KFR-72L(72572)FNhAa-A1</item>
+        <item>0#1#KFR-50L(50572)FNhAa-A1</item>
+        <item>0#1#KFR-72L(72572)FNhAa-A1</item>
+        <item>0#1#KFR-72L(72572)FNhAa-A1</item>
+        <item>0#1#KFR-50L(50578)FNhAd-A1(a)</item>
+        <item>0#1#KFR-72L(72578)FNhAd-A1(WIFI)</item>
+        <item>1#0#KFR-26G(26546)FNhAa-B1(WIFI)#10f04</item>
+        <item>1#0#KFR-35G(35546)FNhAa-B1(WIFI)#10f04</item>
+        <item>1#0#KFR-26G(26546)FNhAb-B1(WIFI)#10f04</item>
+        <item>1#0#KFR-35G(35546)FNhAb-B1(WIFI)#10f04</item>
+        <item>1#0#KFR-35G(35519)FNhBb-B1(WIFI)#11002</item>
+        <item>1#0#KFR-35G(35519)FNhBa-B1(WIFI)#11002</item>
+        <item>1#0#KFR-26G(26519)FNhBa-B1(WIFI)#11002</item>
+        <item>1#0#KFR-26G(26519)FNhBb-B1(WIFI)#11002</item>
+        <item>1#0#KFR-26G(26579)FNhCa-B1(WIFI)#10f05</item>
+        <item>1#0#KFR-35G(35579)FNhCa-B1(WIFI)#10f05</item>
+        <item>1#0#KFR-26G(26579)FNhCb-B1(WIFI)#10f05</item>
+        <item>1#0#KFR-35G(35579)FNhCb-B1(WIFI)#10f05</item>
+        <item>0#11#KJFT600A1</item>
+        <item>0#11#KJ650F-T01</item>
+        <item>0#11#KJ280F-A01</item>
+        <item>0#15#GDCF-4009C</item>
+        <item>2#12#KJ200G-B01</item>
+        <item>1#12#KJ200G-C01#828140</item>
+        <item>1#15#GDCF-4010C#828404</item>
+        <item>1#15#GDCF-40X61C#828405</item>
+        <item>1#25#NTFG-X6021B#828a00</item>
+        <item>1#25#NDJA-22B#828a01</item>
+        <item>1#25#NDYQ-X6025B#828a02</item>
+        <item>1#25#NBDF-X6022B#828a03</item>
+        <item>1#25#NDJA-X6022B#828a01</item>
+        <item>2#25#NDJA-T6022B#828a01</item>
+        <item>1#25#NDJB-21B#828a01</item>
+        <item>1#25#NDYQ-25B#828a02</item>
+        <item>0#20#XQG80-DWB1401Ab1</item>
+        <item>0#20#XQG58-DWB1401Ab1</item>
+        <item>0#20#XQG58-B1401Cb1</item>
+        <item>1#20#XQG100-B1401Da1#28a02</item>
+        <item>1#20#XQG120-B1401Da1#28a02</item>
+        <item>1#20#XQG100-DWB1401Da1#28a03</item>
+        <item>1#20#XQG100-RBD1401Ea1#28a01</item>
+        <item>1#20#XQG100-B1401Ea1#28a04</item>
+        <item>1#26#WQP12-301UCDSG#828b00</item>
+        <item>1#26#WQP12-301SiCDSG#828b00</item>
+        <item>1#26#WQP12-301FCDSG#828b00</item>
+        <item>2#26#WQP4-03R#828901</item>
+        <item>2#26#WQP4-03aR#828901</item>
+        <item>1#26#WQP12-302SiCDSG#828902</item>
+        <item>1#26#WQP12-302UCDSG#828902</item>
+        <item>1#26#WQP12-302FCDSG#828902</item>
+        <item>1#0#KFR-46GNhAaB1W#10012</item>
+        <item>2#15#GDCF-30X61C#828402</item>
+        <item>2#15#GDCF-30X66C#828402</item>
+        <item>2#15#GDCF-30X88C#828402</item>
+        <item>2#15#GDCF-40X65C#828402</item>
+        <item>1#15#GDCF-40X61Cb#828405</item>
+        <item>1#14#DH12EN(WIFI)#13803</item>
+        <item>1#14#DH12EO(WIFI)#13803</item>
+        <item>1#14#DH20EO(WIFI)#13803</item>
+        <item>1#14#DH12EOA1A(WIFI)#13803</item>
+        <item>1#14#DH20EOA1A(WIFI)#13803</item>
+        <item>1#27#GOQD-5701Sa#828d04</item>
+        <item>1#41#IS-T3BBW03#80222</item>
+        <item>1#29#IG-WCCWB01#80300</item>
+        <item>5#0#KFR-72L(72550)FNhAa-A2#11000</item>
+    </array>
+    <array name="type_scann_new_code">
+        <item>XQG62-B1401Cb1</item>
+        <item>XQG58-DWB1401Ab1</item>
+        <item>XQG58-B1401Cd1</item>
+        <item>XQG70-DWB1401Aa1</item>
+        <item>XQG58-B1401Cb1</item>
+        <item>XQG80-DWB1401Ab1</item>
+        <item>XQG62-B1401Cd1</item>
+        <item>KJ280F-A01</item>
+        <item>KJ290F-B01</item>
+        <item>KJFT600A1</item>
+        <item>KJ500G-A01</item>
+        <item>KJ700G-A01</item>
+        <item>KJ650F-T01_local</item>
+        <item>KJ450G-A01</item>
+        <item>L1PB30-G28/A2</item>
+        <item>L1PB26-G24/A2</item>
+        <item>FreshAir_local</item>
+        <item>GR_BusinessAirContionter_local</item>
+        <item>WTE-PT63-2023</item>
+        <item>WTE-PT63-4016</item>
+        <item>WTE-PT63-2X601A</item>
+        <item>WTE-PT63-4015</item>
+        <item>WTE-PT16-3X601Y</item>
+        <item>SC-25X60A</item>
+        <item>SC-25X60AZ</item>
+        <item>GDCF-4001Ch</item>
+        <item>GDCF-20X60C_local</item>
+        <item>GDCF-4009C</item>
+        <item>GDCF-common_local</item>
+        <item>GDCF-2008C</item>
+        <item>BCD521WIPQG_local</item>
+        <item>KS-0705D</item>
+        <item>FLZ-0903Bag</item>
+        <item>GR_Umatch_local</item>
+        <item>Hotwater_xk128_local</item>
+        <item>Hotwater_xk84_local</item>
+        <item>NetDrink_local</item>
+        <item>MobileAC_local</item>
+        <item>VerhicleAC_local</item>
+        <item>Disinfector_local</item>
+        <item>LiangBa_SG03_1504C2XFH_local</item>
+        <item>Dehumidifier_DH20EF_local</item>
+        <item>Dehumidifier_DH20EK_local</item>
+        <item>newAdd_70307</item>
+        <item>newAdd_70308</item>
+        <item>newAdd_70306</item>
+        <item>newAdd_70303</item>
+        <item>newAdd_7030D</item>
+        <item>newAdd_11012</item>
+    </array>
+    <array name="u_match_config">
+        <item>0</item>
+        <item>1</item>
+    </array>
+    <array name="u_match_icon">
+        <item>configdevice_icon_umatch</item>
+        <item>configdevice_icon_wirecontroller</item>
+    </array>
+    <array name="u_match_mid">
+        <item />
+        <item>3018</item>
+    </array>
+    <array name="u_match_type">
+        <item>中央空调线控器</item>
+        <item>中央空调线控器 XC70-13/G2</item>
+    </array>
+    <array name="voice_ac">
+        <item>11f02</item>
+        <item>11f03</item>
+        <item>10f04</item>
+        <item>10f05</item>
+        <item>11008</item>
+        <item>11009</item>
+        <item>10010</item>
+        <item>11011</item>
+        <item>10f10</item>
+        <item>10f00</item>
+    </array>
+    <array name="voice_ac_qq_dialog">
+        <item>11f02</item>
+        <item>11f03</item>
+        <item>10f05</item>
+        <item>11008</item>
+        <item>11009</item>
+        <item>10010</item>
+        <item>11011</item>
+        <item>10f10</item>
+        <item>10f00</item>
+    </array>
+    <array name="voice_help_skill_tips">
+        <item>打开客厅空调</item>
+        <item>调小空调风挡</item>
+        <item>空调开制冷</item>
+        <item>热水器还开着吗</item>
+        <item>查一下冰箱状态</item>
+        <item>洗衣机我要洗衬衫</item>
+        <item>洗衣机衣服洗完了吗</item>
+        <item>空调左右吹风</item>
+        <item>热水器我现在能洗澡吗</item>
+    </array>
+    <array name="voice_help_tips">
+        <item>智能家居</item>
+        <item>系统</item>
+        <item>信息查询</item>
+        <item>生活服务</item>
+    </array>
+    <array name="voice_user_icon_names">
+        <item>ic_headportrait_robot_1</item>
+        <item>ic_headportrait_robot_2</item>
+        <item>ic_headportrait_robot_3</item>
+        <item>ic_headportrait_robot_4</item>
+        <item>ic_headportrait_robot_5</item>
+    </array>
+    <array name="washer_config_type">
+        <item>0</item>
+        <item>0</item>
+        <item>0</item>
+        <item>0</item>
+        <item>0</item>
+        <item>0</item>
+        <item>0</item>
+        <item>1</item>
+        <item>1</item>
+        <item>1</item>
+    </array>
+    <array name="washer_icon">
+        <item>configdevice_washer_xqg58_dwb1401cb1</item>
+        <item>configdevice_washer_xqg58_dwb1401ab1</item>
+        <item>configdevice_washer_xqg62_dwb1401cb1</item>
+        <item>configdevice_washer_xqg70_dwb1401aa1</item>
+        <item>configdevice_washer_xqg80_dwb1401ab1</item>
+        <item>configdevice_washer_xqg62_b1401cd1</item>
+        <item>configdevice_washer_xqg58_b1401cd1</item>
+        <item>configdevice_washer_xqg100_b1401da1</item>
+        <item>configdevice_washer_xqg100_b1401da1</item>
+        <item>configdevice_washer_xqg100_rbd1401ea1</item>
+    </array>
+    <array name="washer_mid">
+        <item>28A01</item>
+        <item>28A00</item>
+        <item>28A01</item>
+        <item>28A00</item>
+        <item>28A00</item>
+        <item>28A81</item>
+        <item>28A81</item>
+        <item>28a02</item>
+        <item>28a02</item>
+        <item>28a01</item>
+    </array>
+    <array name="washer_type">
+        <item>洗衣机 XQG58-B1401Cb1</item>
+        <item>洗衣机 XQG58-DWB1401Ab1</item>
+        <item>洗衣机 XQG62-B1401Cb1</item>
+        <item>洗衣机 XQG70-DWB1401Aa1</item>
+        <item>洗衣机 XQG80-DWB1401Ab1</item>
+        <item>洗衣机 XQG62-B1401Cd1</item>
+        <item>洗衣机 XQG58-B1401Cd1</item>
+        <item>洗衣机 XQG100-B1401Da1</item>
+        <item>洗衣机 XQG120-B1401Da1</item>
+        <item>洗衣机 XQG100-RBD1401Ea1</item>
+    </array>
+    <array name="water_heater_config_type">
+        <item>0</item>
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+    </array>
+    <array name="water_heater_mid">
+        <item>910001</item>
+        <item>910001</item>
+        <item>90XX</item>
+        <item>90XX</item>
+    </array>
+    <array name="water_heater_type">
+        <item>热水线控器XK128</item>
+        <item>热水线控器XK84</item>
+        <item>热水线控器XC70-45/G3</item>
+        <item>热水线控器XC70-45/G4、XC70-45/G5</item>
+    </array>
+    <array name="water_heater_type_icon">
+        <item>configdevice_icon_water_heater_single</item>
+        <item>configdevice_icon_water_heater_double</item>
+        <item>configdevice_icon_water_heater_double</item>
+        <item>configdevice_icon_water_heater_double</item>
+    </array>
+    <array name="water_immersion_sensor_cfg_device_type_tip">
+        <item>(SENW05e)</item>
+        <item>(水浸报警器SW20)</item>
+        <item>(水浸传感器HS1WL)</item>
+    </array>
+    <array name="water_immersion_sensor_cfg_reset_tip">
+        <item>长按复位键5s，红灯快闪(0.5秒亮0.5秒灭)，表示复位成功，进入配网状态</item>
+        <item>使用复位针长按复位孔直至绿灯熄灭后松开，\n再长按2秒，绿灯快闪，表示重置成功</item>
+        <item>使用复位针长按复位孔直至绿灯熄灭后松开，\n再长按2秒，绿灯快闪，表示重置成功。</item>
+    </array>
+    <array name="water_immersion_sensor_icon">
+        <item>choosetype_water_immersion_sensor_by_gree</item>
+        <item>choosetype_water_immersion_sensor</item>
+        <item>choosetype_tuya_hs1wl_water_immersion_sensor_icon</item>
+    </array>
+    <array name="water_immersion_sensor_mid">
+        <item>80702</item>
+        <item>7020A</item>
+        <item>70303</item>
+    </array>
+    <array name="water_immersion_sensor_type">
+        <item>SENW05e</item>
+        <item>水浸报警器SW20</item>
+        <item>水浸传感器HS1WL</item>
+    </array>
+    <array name="water_purifier_config">
+        <item>0</item>
+        <item>0</item>
+        <item>0</item>
+        <item>0</item>
+        <item>0</item>
+        <item>1</item>
+        <item>1</item>
+        <item>1</item>
+        <item>1</item>
+        <item>1</item>
+    </array>
+    <array name="water_purifier_icon">
+        <item>configdevice_waterpurifier_wte_pt63_2x601a</item>
+        <item>configdevice_waterpurifier_wte_pt63_2023</item>
+        <item>configdevice_waterpurifier_wte_pt16_3x601c</item>
+        <item>configdevice_waterpurifier_wte_pt63_4015</item>
+        <item>configdevice_waterpurifier_wte_pt63_4016</item>
+        <item>configdevice_waterpurifier_wte_pt63_2021</item>
+        <item>configdevice_waterpurifier_wte_pt95_2x601b</item>
+        <item>configdevice_waterpurifier_wte_pt95_2x601b</item>
+        <item>configdevice_waterpurifier_wte_pt95_2026</item>
+        <item>configdevice_waterpurifier_ro_1000_2000</item>
+    </array>
+    <array name="water_purifier_mid">
+        <item>828301</item>
+        <item>828301</item>
+        <item>828301</item>
+        <item>828302</item>
+        <item>828302</item>
+        <item>828301</item>
+        <item>828301</item>
+        <item>828301</item>
+        <item>828301</item>
+        <item>828305</item>
+    </array>
+    <array name="water_purifier_type">
+        <item>净水机 WTE–PT63–2X601A</item>
+        <item>净水机 WTE–PT63–2023</item>
+        <item>净水机 WTE–PT16–3X601Y</item>
+        <item>净水机 WTE–PT63–4015</item>
+        <item>净水机 WTE–PT63–4016</item>
+        <item>净水机 WTE–PT63–2021</item>
+        <item>净水机 WTE–PT95–2X601B</item>
+        <item>净水机 WTE–PT63–2X601C、WTE–PT95–2X601D</item>
+        <item>净水机 WTE–PT95–2026、WTE–PT63–2X602A</item>
+        <item>商用净水机 RO-1000L-4021、RO-2000L-4021</item>
+    </array>
+</resources>
