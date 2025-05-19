@@ -1,0 +1,11 @@
+{
+  "domain": "gree_lan",
+  "name": "Gree Lan",
+  "version": "2.0.0",
+  "documentation": "https://github.com/jamelu001/gree_water_heater",
+  "requirements": ["pycryptodome"],  
+  "dependencies": [],
+  "codeowners": ["@jamelu001"],
+  "iot_class": "local_polling",
+  "config_flow": true
+}

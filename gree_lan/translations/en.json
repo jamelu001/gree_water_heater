@@ -1,0 +1,22 @@
+{
+  "config": {
+    "abort": {
+      "already_configured": "Device already configured"
+    },
+    "error": {
+      "cannot_connect": "Failed to connect, check IP and MAC",
+      "unknown": "Unknown error",
+      "invalid_mac": "MAC format : xxxxxxxxxxxx"
+    },
+    "step": {
+      "user": {
+        "title": "Configure Gree Device",
+        "data": {
+          "host": "IP Address",
+          "mac": "Encryption MAC",
+          "port": "Port"
+        }
+      }
+    }
+  }
+}
